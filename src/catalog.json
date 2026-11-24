@@ -1,0 +1,3576 @@
+{
+  "title": "The Master Catalog of Diagram Types & Visual Design Styles",
+  "version": "2026-11-24",
+  "domains": [
+    {
+      "id": "domain-1",
+      "name": "General-purpose diagrams",
+      "groups": [
+        {
+          "name": "Flows & processes",
+          "diagrams": [
+            "Flowchart",
+            "Process Flow Diagram",
+            "Workflow Diagram",
+            "Cycle Diagram",
+            "Circular Flow Diagram",
+            "Timeline Diagram",
+            "Input-Process-Output Diagram",
+            "Event Flow Diagram",
+            "Information Flow Diagram"
+          ]
+        },
+        {
+          "name": "Structures & architecture",
+          "diagrams": [
+            "Layered Architecture Diagram"
+          ]
+        },
+        {
+          "name": "Charts & analytics",
+          "diagrams": [
+            "Mind Map",
+            "Concept Map",
+            "Decision Matrix",
+            "Matrix Diagram"
+          ]
+        },
+        {
+          "name": "Networks & relationships",
+          "diagrams": [
+            "Tree Diagram",
+            "Relationship Diagram",
+            "Decision Tree",
+            "Network Diagram",
+            "Dependency Diagram"
+          ]
+        },
+        {
+          "name": "Simulation & modeling",
+          "diagrams": [
+            "State Transition Diagram"
+          ]
+        },
+        {
+          "name": "Illustrations & explainers",
+          "diagrams": [
+            "Block Diagram",
+            "Hierarchy Diagram",
+            "Venn Diagram",
+            "Swimlane Diagram",
+            "Cause-and-Effect (Fishbone) Diagram",
+            "Sankey Diagram",
+            "Pyramid Diagram",
+            "Funnel Diagram",
+            "Feedback Loop Diagram",
+            "Context Diagram"
+          ]
+        }
+      ],
+      "diagrams": [
+        "Flowchart",
+        "Process Flow Diagram",
+        "Workflow Diagram",
+        "Block Diagram",
+        "Hierarchy Diagram",
+        "Tree Diagram",
+        "Mind Map",
+        "Concept Map",
+        "Relationship Diagram",
+        "Venn Diagram",
+        "Cycle Diagram",
+        "Circular Flow Diagram",
+        "Timeline Diagram",
+        "Swimlane Diagram",
+        "Decision Tree",
+        "Decision Matrix",
+        "Cause-and-Effect (Fishbone) Diagram",
+        "Sankey Diagram",
+        "Network Diagram",
+        "Matrix Diagram",
+        "Pyramid Diagram",
+        "Funnel Diagram",
+        "Layered Architecture Diagram",
+        "Dependency Diagram",
+        "Feedback Loop Diagram",
+        "Context Diagram",
+        "Input-Process-Output Diagram",
+        "Event Flow Diagram",
+        "State Transition Diagram",
+        "Information Flow Diagram"
+      ]
+    },
+    {
+      "id": "domain-2",
+      "name": "UML: Unified Modeling Language",
+      "groups": [
+        {
+          "name": "Flows & processes",
+          "diagrams": [
+            "Sequence Diagram"
+          ]
+        },
+        {
+          "name": "Structures & architecture",
+          "diagrams": [
+            "Component Diagram",
+            "Composite Structure Diagram"
+          ]
+        },
+        {
+          "name": "Charts & analytics",
+          "diagrams": [
+            "Profile Diagram"
+          ]
+        },
+        {
+          "name": "Networks & relationships",
+          "diagrams": [
+            "Interaction Overview Diagram"
+          ]
+        },
+        {
+          "name": "Simulation & modeling",
+          "diagrams": [
+            "State Machine Diagram"
+          ]
+        },
+        {
+          "name": "Illustrations & explainers",
+          "diagrams": [
+            "Class Diagram",
+            "Object Diagram",
+            "Package Diagram",
+            "Deployment Diagram",
+            "Use Case Diagram",
+            "Activity Diagram",
+            "Communication Diagram",
+            "Timing Diagram"
+          ]
+        }
+      ],
+      "diagrams": [
+        "Class Diagram",
+        "Object Diagram",
+        "Component Diagram",
+        "Composite Structure Diagram",
+        "Package Diagram",
+        "Deployment Diagram",
+        "Profile Diagram",
+        "Use Case Diagram",
+        "Activity Diagram",
+        "State Machine Diagram",
+        "Sequence Diagram",
+        "Communication Diagram",
+        "Timing Diagram",
+        "Interaction Overview Diagram"
+      ]
+    },
+    {
+      "id": "domain-3",
+      "name": "Software engineering and application architecture",
+      "groups": [
+        {
+          "name": "Flows & processes",
+          "diagrams": [
+            "Webhook Event Flow Diagram",
+            "Authentication Flow Diagram",
+            "OAuth 2.0 Flow Diagram",
+            "SAML SSO Flow Diagram",
+            "CI/CD Pipeline Diagram"
+          ]
+        },
+        {
+          "name": "Structures & architecture",
+          "diagrams": [
+            "Application Architecture Diagram",
+            "Software Component Diagram",
+            "Client-Server Architecture Diagram",
+            "Microservices Architecture Diagram",
+            "Monolithic Architecture Diagram",
+            "Service-Oriented Architecture (SOA) Diagram",
+            "Serverless Architecture Diagram",
+            "Event-Driven Architecture Diagram",
+            "Infrastructure-as-Code Architecture Diagram",
+            "Kubernetes Architecture Diagram",
+            "Distributed System Diagram",
+            "C4 System Context Diagram",
+            "C4 Component Diagram"
+          ]
+        },
+        {
+          "name": "Charts & analytics",
+          "diagrams": [
+            "GraphQL Schema Diagram"
+          ]
+        },
+        {
+          "name": "Illustrations & explainers",
+          "diagrams": [
+            "API Integration Diagram",
+            "REST API Request-Response Diagram",
+            "Git Branching Diagram",
+            "Container Orchestration Diagram",
+            "Docker Container Diagram",
+            "Message Queue Diagram",
+            "Pub/Sub Messaging Diagram",
+            "C4 Container Diagram",
+            "C4 Code Diagram"
+          ]
+        }
+      ],
+      "diagrams": [
+        "Application Architecture Diagram",
+        "Software Component Diagram",
+        "Client-Server Architecture Diagram",
+        "Microservices Architecture Diagram",
+        "Monolithic Architecture Diagram",
+        "Service-Oriented Architecture (SOA) Diagram",
+        "Serverless Architecture Diagram",
+        "Event-Driven Architecture Diagram",
+        "API Integration Diagram",
+        "REST API Request-Response Diagram",
+        "GraphQL Schema Diagram",
+        "Webhook Event Flow Diagram",
+        "Authentication Flow Diagram",
+        "OAuth 2.0 Flow Diagram",
+        "SAML SSO Flow Diagram",
+        "CI/CD Pipeline Diagram",
+        "Git Branching Diagram",
+        "Infrastructure-as-Code Architecture Diagram",
+        "Container Orchestration Diagram",
+        "Kubernetes Architecture Diagram",
+        "Docker Container Diagram",
+        "Message Queue Diagram",
+        "Pub/Sub Messaging Diagram",
+        "Distributed System Diagram",
+        "C4 System Context Diagram",
+        "C4 Container Diagram",
+        "C4 Component Diagram",
+        "C4 Code Diagram"
+      ]
+    },
+    {
+      "id": "domain-4",
+      "name": "Database, data engineering, and analytics",
+      "groups": [
+        {
+          "name": "Flows & processes",
+          "diagrams": [
+            "ETL Pipeline Diagram",
+            "ELT Pipeline Diagram",
+            "Data Flow Diagram (DFD)",
+            "Streaming Data Pipeline Diagram"
+          ]
+        },
+        {
+          "name": "Structures & architecture",
+          "diagrams": [
+            "Data Warehouse Architecture Diagram",
+            "Data Lake Architecture Diagram",
+            "Data Mesh Architecture Diagram"
+          ]
+        },
+        {
+          "name": "Charts & analytics",
+          "diagrams": [
+            "Data Dependency Graph"
+          ]
+        },
+        {
+          "name": "Networks & relationships",
+          "diagrams": [
+            "Entity-Relationship Diagram (ERD)"
+          ]
+        },
+        {
+          "name": "Simulation & modeling",
+          "diagrams": [
+            "Relational Data Model"
+          ]
+        },
+        {
+          "name": "Illustrations & explainers",
+          "diagrams": [
+            "Database Schema Diagram",
+            "Star Schema Diagram",
+            "Snowflake Schema Diagram",
+            "Data Lakehouse Diagram",
+            "Data Lineage Diagram",
+            "Data Transformation Diagram",
+            "Event Sourcing Diagram",
+            "Data Replication Diagram",
+            "Database Sharding Diagram",
+            "Database Query Execution Plan",
+            "Data Governance Diagram",
+            "Master Data Management Diagram"
+          ]
+        }
+      ],
+      "diagrams": [
+        "Entity-Relationship Diagram (ERD)",
+        "Database Schema Diagram",
+        "Relational Data Model",
+        "Star Schema Diagram",
+        "Snowflake Schema Diagram",
+        "Data Warehouse Architecture Diagram",
+        "Data Lake Architecture Diagram",
+        "Data Lakehouse Diagram",
+        "ETL Pipeline Diagram",
+        "ELT Pipeline Diagram",
+        "Data Lineage Diagram",
+        "Data Dependency Graph",
+        "Data Transformation Diagram",
+        "Data Flow Diagram (DFD)",
+        "Data Mesh Architecture Diagram",
+        "Streaming Data Pipeline Diagram",
+        "Event Sourcing Diagram",
+        "Data Replication Diagram",
+        "Database Sharding Diagram",
+        "Database Query Execution Plan",
+        "Data Governance Diagram",
+        "Master Data Management Diagram"
+      ]
+    },
+    {
+      "id": "domain-5",
+      "name": "Artificial intelligence and machine learning",
+      "groups": [
+        {
+          "name": "Flows & processes",
+          "diagrams": [
+            "AI Agent Workflow Diagram",
+            "Machine Learning Pipeline Diagram",
+            "Model Training Workflow Diagram",
+            "Inference Pipeline Diagram",
+            "Computer Vision Processing Diagram",
+            "Human-in-the-Loop Workflow Diagram"
+          ]
+        },
+        {
+          "name": "Structures & architecture",
+          "diagrams": [
+            "Neural Network Architecture Diagram",
+            "Deep Learning Layer Diagram",
+            "Transformer Architecture Diagram",
+            "Attention Mechanism Diagram",
+            "Large Language Model Architecture Diagram",
+            "Model Context Protocol (MCP) Architecture Diagram"
+          ]
+        },
+        {
+          "name": "Charts & analytics",
+          "diagrams": [
+            "Confusion Matrix",
+            "Knowledge Graph",
+            "Model Drift Monitoring Chart"
+          ]
+        },
+        {
+          "name": "Networks & relationships",
+          "diagrams": [
+            "Convolutional Neural Network Diagram",
+            "AI Decision Tree"
+          ]
+        },
+        {
+          "name": "Simulation & modeling",
+          "diagrams": [
+            "Model Evaluation Diagram"
+          ]
+        },
+        {
+          "name": "Illustrations & explainers",
+          "diagrams": [
+            "Retrieval-Augmented Generation (RAG) Diagram",
+            "Multi-Agent Orchestration Diagram",
+            "Decision Boundary Visualization",
+            "Feature Importance Diagram",
+            "Embedding Space Visualization",
+            "Vector Similarity Diagram",
+            "Reinforcement Learning Loop Diagram"
+          ]
+        }
+      ],
+      "diagrams": [
+        "Neural Network Architecture Diagram",
+        "Deep Learning Layer Diagram",
+        "Transformer Architecture Diagram",
+        "Attention Mechanism Diagram",
+        "Large Language Model Architecture Diagram",
+        "Retrieval-Augmented Generation (RAG) Diagram",
+        "AI Agent Workflow Diagram",
+        "Multi-Agent Orchestration Diagram",
+        "Model Context Protocol (MCP) Architecture Diagram",
+        "Machine Learning Pipeline Diagram",
+        "Model Training Workflow Diagram",
+        "Inference Pipeline Diagram",
+        "Decision Boundary Visualization",
+        "Confusion Matrix",
+        "Feature Importance Diagram",
+        "Embedding Space Visualization",
+        "Vector Similarity Diagram",
+        "Knowledge Graph",
+        "Computer Vision Processing Diagram",
+        "Convolutional Neural Network Diagram",
+        "Reinforcement Learning Loop Diagram",
+        "Model Evaluation Diagram",
+        "Model Drift Monitoring Chart",
+        "AI Decision Tree",
+        "Human-in-the-Loop Workflow Diagram"
+      ]
+    },
+    {
+      "id": "domain-6",
+      "name": "Networking, telecommunications, and cybersecurity",
+      "groups": [
+        {
+          "name": "Flows & processes",
+          "diagrams": [
+            "Network Packet Flow Diagram",
+            "Incident Response Workflow"
+          ]
+        },
+        {
+          "name": "Structures & architecture",
+          "diagrams": [
+            "LAN/WAN Architecture Diagram",
+            "Zero Trust Architecture Diagram",
+            "Cellular Network Architecture Diagram"
+          ]
+        },
+        {
+          "name": "Charts & analytics",
+          "diagrams": [
+            "Attack Graph",
+            "Wireless Coverage Map"
+          ]
+        },
+        {
+          "name": "Networks & relationships",
+          "diagrams": [
+            "Network Topology Diagram",
+            "Physical Network Diagram",
+            "Logical Network Diagram",
+            "Cloud Network Diagram",
+            "Attack Tree",
+            "Radio Frequency Link Budget Diagram"
+          ]
+        },
+        {
+          "name": "Simulation & modeling",
+          "diagrams": [
+            "Threat Model Diagram",
+            "Role-Based Access Control (RBAC) Diagram",
+            "OSI Model Diagram"
+          ]
+        },
+        {
+          "name": "Illustrations & explainers",
+          "diagrams": [
+            "VPN Tunnel Diagram",
+            "Firewall Zone Diagram",
+            "Security Trust Boundary Diagram",
+            "Cyber Kill Chain Diagram",
+            "Identity and Access Management (IAM) Diagram",
+            "TCP/IP Protocol Stack Diagram",
+            "DNS Resolution Diagram",
+            "Load Balancer Traffic Diagram"
+          ]
+        }
+      ],
+      "diagrams": [
+        "Network Topology Diagram",
+        "Physical Network Diagram",
+        "Logical Network Diagram",
+        "LAN/WAN Architecture Diagram",
+        "Cloud Network Diagram",
+        "VPN Tunnel Diagram",
+        "Firewall Zone Diagram",
+        "Zero Trust Architecture Diagram",
+        "Security Trust Boundary Diagram",
+        "Threat Model Diagram",
+        "Attack Tree",
+        "Attack Graph",
+        "Cyber Kill Chain Diagram",
+        "Identity and Access Management (IAM) Diagram",
+        "Role-Based Access Control (RBAC) Diagram",
+        "Network Packet Flow Diagram",
+        "TCP/IP Protocol Stack Diagram",
+        "OSI Model Diagram",
+        "DNS Resolution Diagram",
+        "Load Balancer Traffic Diagram",
+        "Wireless Coverage Map",
+        "Cellular Network Architecture Diagram",
+        "Radio Frequency Link Budget Diagram",
+        "Incident Response Workflow"
+      ]
+    },
+    {
+      "id": "domain-7",
+      "name": "Business processes and operations",
+      "groups": [
+        {
+          "name": "Flows & processes",
+          "diagrams": [
+            "Business Process Model and Notation (BPMN) Diagram",
+            "Business Process Flow Diagram",
+            "Customer Journey Map",
+            "Customer Lifecycle Diagram",
+            "Lead-to-Cash Process Diagram",
+            "Order-to-Cash Process Diagram",
+            "Procure-to-Pay Process Diagram",
+            "Accounts Payable Workflow",
+            "Accounts Receivable Workflow",
+            "Lean Process Map",
+            "Six Sigma DMAIC Cycle",
+            "Continuous Improvement Cycle"
+          ]
+        },
+        {
+          "name": "Charts & analytics",
+          "diagrams": [
+            "Value Stream Map",
+            "Business Capability Map",
+            "Organizational Chart",
+            "RACI Responsibility Matrix"
+          ]
+        },
+        {
+          "name": "Simulation & modeling",
+          "diagrams": [
+            "Operating Model Diagram",
+            "Decision Model and Notation (DMN) Diagram"
+          ]
+        },
+        {
+          "name": "Illustrations & explainers",
+          "diagrams": [
+            "Service Blueprint",
+            "Approval Chain Diagram",
+            "Business Rule Decision Diagram",
+            "SIPOC Diagram",
+            "Theory of Constraints Diagram"
+          ]
+        }
+      ],
+      "diagrams": [
+        "Business Process Model and Notation (BPMN) Diagram",
+        "Business Process Flow Diagram",
+        "Value Stream Map",
+        "Business Capability Map",
+        "Operating Model Diagram",
+        "Organizational Chart",
+        "RACI Responsibility Matrix",
+        "Service Blueprint",
+        "Customer Journey Map",
+        "Customer Lifecycle Diagram",
+        "Lead-to-Cash Process Diagram",
+        "Order-to-Cash Process Diagram",
+        "Procure-to-Pay Process Diagram",
+        "Accounts Payable Workflow",
+        "Accounts Receivable Workflow",
+        "Approval Chain Diagram",
+        "Business Rule Decision Diagram",
+        "Decision Model and Notation (DMN) Diagram",
+        "SIPOC Diagram",
+        "Lean Process Map",
+        "Six Sigma DMAIC Cycle",
+        "Theory of Constraints Diagram",
+        "Continuous Improvement Cycle"
+      ]
+    },
+    {
+      "id": "domain-8",
+      "name": "Project management and product development",
+      "groups": [
+        {
+          "name": "Flows & processes",
+          "diagrams": [
+            "Cumulative Flow Diagram",
+            "Kanban Workflow",
+            "Agile Sprint Cycle",
+            "Product Lifecycle Diagram",
+            "Stage-Gate Process Diagram",
+            "Milestone Timeline"
+          ]
+        },
+        {
+          "name": "Structures & architecture",
+          "diagrams": [
+            "Work Breakdown Structure (WBS)"
+          ]
+        },
+        {
+          "name": "Charts & analytics",
+          "diagrams": [
+            "Gantt Chart",
+            "PERT Chart",
+            "Product Roadmap",
+            "Feature Dependency Map",
+            "Sprint Burndown Chart",
+            "Risk Matrix",
+            "Stakeholder Map",
+            "Requirements Traceability Matrix",
+            "Impact Mapping Diagram"
+          ]
+        },
+        {
+          "name": "Networks & relationships",
+          "diagrams": [
+            "Critical Path Method (CPM) Network",
+            "Opportunity Solution Tree"
+          ]
+        },
+        {
+          "name": "Illustrations & explainers",
+          "diagrams": [
+            "Release Train Diagram",
+            "Resource Allocation Diagram",
+            "Product Discovery Funnel"
+          ]
+        }
+      ],
+      "diagrams": [
+        "Gantt Chart",
+        "PERT Chart",
+        "Critical Path Method (CPM) Network",
+        "Work Breakdown Structure (WBS)",
+        "Product Roadmap",
+        "Feature Dependency Map",
+        "Release Train Diagram",
+        "Sprint Burndown Chart",
+        "Cumulative Flow Diagram",
+        "Kanban Workflow",
+        "Agile Sprint Cycle",
+        "Product Lifecycle Diagram",
+        "Stage-Gate Process Diagram",
+        "Risk Matrix",
+        "Stakeholder Map",
+        "Milestone Timeline",
+        "Resource Allocation Diagram",
+        "Requirements Traceability Matrix",
+        "Product Discovery Funnel",
+        "Opportunity Solution Tree",
+        "Impact Mapping Diagram"
+      ]
+    },
+    {
+      "id": "domain-9",
+      "name": "Systems engineering and SysML",
+      "groups": [
+        {
+          "name": "Flows & processes",
+          "diagrams": [
+            "SysML Sequence Diagram",
+            "Functional Flow Block Diagram (FFBD)"
+          ]
+        },
+        {
+          "name": "Structures & architecture",
+          "diagrams": [
+            "Digital Twin Architecture Diagram"
+          ]
+        },
+        {
+          "name": "Simulation & modeling",
+          "diagrams": [
+            "SysML State Machine Diagram",
+            "Interface Control Diagram"
+          ]
+        },
+        {
+          "name": "Illustrations & explainers",
+          "diagrams": [
+            "Block Definition Diagram (BDD)",
+            "Internal Block Diagram (IBD)",
+            "Requirements Diagram",
+            "Parametric Diagram",
+            "SysML Activity Diagram",
+            "SysML Use Case Diagram",
+            "SysML Package Diagram",
+            "Enhanced FFBD (EFFBD)",
+            "N-Squared (N2) Diagram",
+            "Functional Decomposition Diagram"
+          ]
+        }
+      ],
+      "diagrams": [
+        "Block Definition Diagram (BDD)",
+        "Internal Block Diagram (IBD)",
+        "Requirements Diagram",
+        "Parametric Diagram",
+        "SysML Activity Diagram",
+        "SysML State Machine Diagram",
+        "SysML Sequence Diagram",
+        "SysML Use Case Diagram",
+        "SysML Package Diagram",
+        "Functional Flow Block Diagram (FFBD)",
+        "Enhanced FFBD (EFFBD)",
+        "N-Squared (N2) Diagram",
+        "Functional Decomposition Diagram",
+        "Interface Control Diagram",
+        "Digital Twin Architecture Diagram"
+      ]
+    },
+    {
+      "id": "domain-10",
+      "name": "Aerospace, aviation, and spacecraft engineering",
+      "groups": [
+        {
+          "name": "Flows & processes",
+          "diagrams": [
+            "Jet Engine Thermodynamic Cycle Diagram",
+            "Hohmann Transfer Orbit Diagram",
+            "Launch Vehicle Separation Sequence",
+            "Mission Timeline Diagram"
+          ]
+        },
+        {
+          "name": "Structures & architecture",
+          "diagrams": [
+            "Aircraft Cutaway Diagram",
+            "Aircraft Structural Layout Diagram",
+            "Flight Control System Architecture Diagram",
+            "Avionics Architecture Diagram",
+            "Aircraft Hydraulic System Diagram",
+            "Turbine Engine Cutaway Diagram",
+            "Spacecraft Subsystem Architecture Diagram",
+            "Satellite Payload Configuration Diagram",
+            "Orbital Mechanics Diagram",
+            "Orbital Ground Track Diagram",
+            "Thermal Protection System Diagram"
+          ]
+        },
+        {
+          "name": "Charts & analytics",
+          "diagrams": [
+            "Airfoil Pressure Distribution Diagram",
+            "Aircraft Electrical Distribution Diagram",
+            "Fault Tree Analysis Diagram"
+          ]
+        },
+        {
+          "name": "Networks & relationships",
+          "diagrams": [
+            "Spacecraft Communication Link Diagram"
+          ]
+        },
+        {
+          "name": "Simulation & modeling",
+          "diagrams": [
+            "Computational Fluid Dynamics (CFD) Visualization",
+            "Aircraft Stability and Control Diagram",
+            "Spacecraft Attitude Control Diagram",
+            "Mission Trajectory Diagram",
+            "Flight Control State Machine"
+          ]
+        },
+        {
+          "name": "Illustrations & explainers",
+          "diagrams": [
+            "Aircraft Three-View Drawing",
+            "Flight Envelope (V-n) Diagram",
+            "Aircraft Free-Body Diagram",
+            "Lift, Drag, Thrust, and Weight Diagram",
+            "Aerodynamic Streamline Diagram",
+            "Rocket Propulsion Diagram",
+            "Rocket Staging Diagram",
+            "Rendezvous and Docking Diagram",
+            "Satellite Constellation Diagram",
+            "Space Mission Concept of Operations (ConOps) Diagram",
+            "Entry, Descent, and Landing (EDL) Diagram"
+          ]
+        }
+      ],
+      "diagrams": [
+        "Aircraft Three-View Drawing",
+        "Aircraft Cutaway Diagram",
+        "Aircraft Structural Layout Diagram",
+        "Flight Envelope (V-n) Diagram",
+        "Aircraft Free-Body Diagram",
+        "Lift, Drag, Thrust, and Weight Diagram",
+        "Airfoil Pressure Distribution Diagram",
+        "Aerodynamic Streamline Diagram",
+        "Computational Fluid Dynamics (CFD) Visualization",
+        "Aircraft Stability and Control Diagram",
+        "Flight Control System Architecture Diagram",
+        "Avionics Architecture Diagram",
+        "Aircraft Electrical Distribution Diagram",
+        "Aircraft Hydraulic System Diagram",
+        "Turbine Engine Cutaway Diagram",
+        "Jet Engine Thermodynamic Cycle Diagram",
+        "Rocket Propulsion Diagram",
+        "Rocket Staging Diagram",
+        "Spacecraft Subsystem Architecture Diagram",
+        "Satellite Payload Configuration Diagram",
+        "Orbital Mechanics Diagram",
+        "Hohmann Transfer Orbit Diagram",
+        "Orbital Ground Track Diagram",
+        "Spacecraft Attitude Control Diagram",
+        "Rendezvous and Docking Diagram",
+        "Mission Trajectory Diagram",
+        "Launch Vehicle Separation Sequence",
+        "Mission Timeline Diagram",
+        "Spacecraft Communication Link Diagram",
+        "Flight Control State Machine",
+        "Fault Tree Analysis Diagram",
+        "Satellite Constellation Diagram",
+        "Space Mission Concept of Operations (ConOps) Diagram",
+        "Thermal Protection System Diagram",
+        "Entry, Descent, and Landing (EDL) Diagram"
+      ]
+    },
+    {
+      "id": "domain-11",
+      "name": "Mechanical engineering",
+      "groups": [
+        {
+          "name": "Flows & processes",
+          "diagrams": [
+            "Thermodynamic Cycle Diagram",
+            "Heat Transfer Diagram"
+          ]
+        },
+        {
+          "name": "Structures & architecture",
+          "diagrams": [
+            "Mechanical Assembly Drawing",
+            "Exploded Assembly Diagram",
+            "Bearing Assembly Diagram",
+            "Hydraulic Circuit Diagram",
+            "Pneumatic Circuit Diagram"
+          ]
+        },
+        {
+          "name": "Charts & analytics",
+          "diagrams": [
+            "Orthographic Projection",
+            "Stress-Strain Curve",
+            "Finite Element Analysis (FEA) Stress Map"
+          ]
+        },
+        {
+          "name": "Networks & relationships",
+          "diagrams": [
+            "Four-Bar Linkage Diagram"
+          ]
+        },
+        {
+          "name": "Simulation & modeling",
+          "diagrams": [
+            "Kinematic Chain Diagram"
+          ]
+        },
+        {
+          "name": "Illustrations & explainers",
+          "diagrams": [
+            "Engineering Section View",
+            "Isometric Technical Drawing",
+            "Gear Train Diagram",
+            "Cam and Follower Diagram",
+            "Belt and Pulley Diagram",
+            "Power Transmission Diagram",
+            "Free-Body Diagram",
+            "Shear Force Diagram",
+            "Bending Moment Diagram",
+            "Fatigue Life (S-N) Diagram",
+            "Tolerance Stack-Up Diagram",
+            "Geometric Dimensioning and Tolerancing (GD&T) Drawing",
+            "Mechanical Vibration Mode Shape Diagram"
+          ]
+        }
+      ],
+      "diagrams": [
+        "Mechanical Assembly Drawing",
+        "Exploded Assembly Diagram",
+        "Engineering Section View",
+        "Orthographic Projection",
+        "Isometric Technical Drawing",
+        "Kinematic Chain Diagram",
+        "Four-Bar Linkage Diagram",
+        "Gear Train Diagram",
+        "Cam and Follower Diagram",
+        "Belt and Pulley Diagram",
+        "Bearing Assembly Diagram",
+        "Power Transmission Diagram",
+        "Hydraulic Circuit Diagram",
+        "Pneumatic Circuit Diagram",
+        "Thermodynamic Cycle Diagram",
+        "Heat Transfer Diagram",
+        "Stress-Strain Curve",
+        "Finite Element Analysis (FEA) Stress Map",
+        "Free-Body Diagram",
+        "Shear Force Diagram",
+        "Bending Moment Diagram",
+        "Fatigue Life (S-N) Diagram",
+        "Tolerance Stack-Up Diagram",
+        "Geometric Dimensioning and Tolerancing (GD&T) Drawing",
+        "Mechanical Vibration Mode Shape Diagram"
+      ]
+    },
+    {
+      "id": "domain-12",
+      "name": "Electrical and electronics engineering",
+      "groups": [
+        {
+          "name": "Flows & processes",
+          "diagrams": [
+            "Signal Flow Diagram"
+          ]
+        },
+        {
+          "name": "Structures & architecture",
+          "diagrams": [
+            "Electrical Circuit Schematic",
+            "Electrical Wiring Diagram",
+            "Printed Circuit Board (PCB) Layout",
+            "PCB Layer Stack-Up Diagram",
+            "Semiconductor Device Structure Diagram",
+            "Integrated Circuit Floorplan",
+            "VLSI Layout Diagram"
+          ]
+        },
+        {
+          "name": "Charts & analytics",
+          "diagrams": [
+            "Electrical Power Distribution Diagram",
+            "Clock Distribution Diagram",
+            "Bode Plot",
+            "Smith Chart"
+          ]
+        },
+        {
+          "name": "Simulation & modeling",
+          "diagrams": [
+            "Motor Control Ladder Diagram",
+            "Programmable Logic Controller (PLC) Ladder Diagram",
+            "Control Loop Diagram"
+          ]
+        },
+        {
+          "name": "Illustrations & explainers",
+          "diagrams": [
+            "Single-Line Electrical Diagram",
+            "Three-Line Electrical Diagram",
+            "Electronic Block Diagram",
+            "Logic Gate Diagram",
+            "Digital Timing Diagram",
+            "Relay Logic Diagram",
+            "Grounding and Bonding Diagram",
+            "Power Electronics Converter Diagram",
+            "Phasor Diagram",
+            "Frequency Response Diagram",
+            "Eye Diagram",
+            "Signal Constellation Diagram",
+            "Antenna Radiation Pattern"
+          ]
+        }
+      ],
+      "diagrams": [
+        "Electrical Circuit Schematic",
+        "Single-Line Electrical Diagram",
+        "Three-Line Electrical Diagram",
+        "Electrical Wiring Diagram",
+        "Printed Circuit Board (PCB) Layout",
+        "PCB Layer Stack-Up Diagram",
+        "Electronic Block Diagram",
+        "Logic Gate Diagram",
+        "Digital Timing Diagram",
+        "Signal Flow Diagram",
+        "Electrical Power Distribution Diagram",
+        "Motor Control Ladder Diagram",
+        "Programmable Logic Controller (PLC) Ladder Diagram",
+        "Control Loop Diagram",
+        "Relay Logic Diagram",
+        "Grounding and Bonding Diagram",
+        "Semiconductor Device Structure Diagram",
+        "Integrated Circuit Floorplan",
+        "VLSI Layout Diagram",
+        "Clock Distribution Diagram",
+        "Power Electronics Converter Diagram",
+        "Phasor Diagram",
+        "Frequency Response Diagram",
+        "Bode Plot",
+        "Smith Chart",
+        "Eye Diagram",
+        "Signal Constellation Diagram",
+        "Antenna Radiation Pattern"
+      ]
+    },
+    {
+      "id": "domain-13",
+      "name": "Civil, structural, and architectural engineering",
+      "groups": [
+        {
+          "name": "Flows & processes",
+          "diagrams": [
+            "Building Energy Flow Diagram",
+            "Evacuation Route Diagram"
+          ]
+        },
+        {
+          "name": "Structures & architecture",
+          "diagrams": [
+            "Architectural Floor Plan",
+            "Architectural Exploded Axonometric Diagram",
+            "Concrete Rebar Layout",
+            "Geotechnical Cross-Section",
+            "Fire Sprinkler Layout",
+            "Structural Failure Mechanism Diagram"
+          ]
+        },
+        {
+          "name": "Charts & analytics",
+          "diagrams": [
+            "Truss Analysis Diagram",
+            "Seismic Response Spectrum"
+          ]
+        },
+        {
+          "name": "Simulation & modeling",
+          "diagrams": [
+            "Building Information Modeling (BIM) Diagram"
+          ]
+        },
+        {
+          "name": "Illustrations & explainers",
+          "diagrams": [
+            "Building Elevation Drawing",
+            "Building Section Drawing",
+            "Site Plan",
+            "Building Axonometric Drawing",
+            "Structural Framing Plan",
+            "Foundation Plan",
+            "Reinforcement Detail Diagram",
+            "Structural Load Path Diagram",
+            "Shear Force Diagram",
+            "Bending Moment Diagram",
+            "Soil Bearing Capacity Diagram",
+            "Construction Phasing Diagram",
+            "Plumbing Riser Diagram",
+            "HVAC Ductwork Diagram",
+            "Mechanical-Electrical-Plumbing (MEP) Coordination Diagram",
+            "Bridge Cable Force Diagram",
+            "Building Circulation Diagram"
+          ]
+        }
+      ],
+      "diagrams": [
+        "Architectural Floor Plan",
+        "Building Elevation Drawing",
+        "Building Section Drawing",
+        "Site Plan",
+        "Building Axonometric Drawing",
+        "Architectural Exploded Axonometric Diagram",
+        "Structural Framing Plan",
+        "Foundation Plan",
+        "Reinforcement Detail Diagram",
+        "Concrete Rebar Layout",
+        "Structural Load Path Diagram",
+        "Shear Force Diagram",
+        "Bending Moment Diagram",
+        "Truss Analysis Diagram",
+        "Soil Bearing Capacity Diagram",
+        "Geotechnical Cross-Section",
+        "Construction Phasing Diagram",
+        "Building Information Modeling (BIM) Diagram",
+        "Plumbing Riser Diagram",
+        "HVAC Ductwork Diagram",
+        "Mechanical-Electrical-Plumbing (MEP) Coordination Diagram",
+        "Fire Sprinkler Layout",
+        "Building Energy Flow Diagram",
+        "Evacuation Route Diagram",
+        "Structural Failure Mechanism Diagram",
+        "Bridge Cable Force Diagram",
+        "Seismic Response Spectrum",
+        "Building Circulation Diagram"
+      ]
+    },
+    {
+      "id": "domain-14",
+      "name": "Manufacturing and industrial engineering",
+      "groups": [
+        {
+          "name": "Flows & processes",
+          "diagrams": [
+            "Production Flow Diagram",
+            "Manufacturing Process Map",
+            "Assembly Sequence Diagram",
+            "Material Flow Diagram",
+            "Statistical Process Control (SPC) Chart"
+          ]
+        },
+        {
+          "name": "Structures & architecture",
+          "diagrams": [
+            "Assembly Line Layout",
+            "Factory Floor Layout",
+            "Exploded Product Assembly",
+            "Robotic Workcell Layout",
+            "Industrial Automation Architecture Diagram",
+            "Manufacturing Cell Layout"
+          ]
+        },
+        {
+          "name": "Charts & analytics",
+          "diagrams": [
+            "Lean Value Stream Map",
+            "Quality Control Chart",
+            "Failure Mode and Effects Analysis (FMEA) Matrix",
+            "Six Sigma Control Chart"
+          ]
+        },
+        {
+          "name": "Networks & relationships",
+          "diagrams": [
+            "Fault Tree Diagram"
+          ]
+        },
+        {
+          "name": "Illustrations & explainers",
+          "diagrams": [
+            "CNC Toolpath Visualization",
+            "Production Capacity Diagram",
+            "Ishikawa Fishbone Diagram",
+            "Overall Equipment Effectiveness (OEE) Dashboard",
+            "Warehouse Material Handling Diagram",
+            "Digital Manufacturing Twin"
+          ]
+        }
+      ],
+      "diagrams": [
+        "Assembly Line Layout",
+        "Production Flow Diagram",
+        "Factory Floor Layout",
+        "Manufacturing Process Map",
+        "Assembly Sequence Diagram",
+        "Exploded Product Assembly",
+        "CNC Toolpath Visualization",
+        "Robotic Workcell Layout",
+        "Production Capacity Diagram",
+        "Material Flow Diagram",
+        "Lean Value Stream Map",
+        "Quality Control Chart",
+        "Statistical Process Control (SPC) Chart",
+        "Failure Mode and Effects Analysis (FMEA) Matrix",
+        "Fault Tree Diagram",
+        "Ishikawa Fishbone Diagram",
+        "Overall Equipment Effectiveness (OEE) Dashboard",
+        "Warehouse Material Handling Diagram",
+        "Industrial Automation Architecture Diagram",
+        "Manufacturing Cell Layout",
+        "Digital Manufacturing Twin",
+        "Six Sigma Control Chart"
+      ]
+    },
+    {
+      "id": "domain-15",
+      "name": "Chemical engineering and process industries",
+      "groups": [
+        {
+          "name": "Flows & processes",
+          "diagrams": [
+            "Block Flow Diagram (BFD)",
+            "Process Flow Diagram (PFD)",
+            "Process Equipment Layout",
+            "Process Control Loop Diagram",
+            "Heat Exchanger Flow Diagram",
+            "Chemical Plant Utility Flow Diagram",
+            "Process Safety Bow-Tie Diagram",
+            "Fluid Flow Streamline Diagram",
+            "Process Simulation Flowsheet"
+          ]
+        },
+        {
+          "name": "Structures & architecture",
+          "diagrams": [
+            "Pressure Relief System Diagram"
+          ]
+        },
+        {
+          "name": "Illustrations & explainers",
+          "diagrams": [
+            "Piping and Instrumentation Diagram (P&ID)",
+            "Chemical Reactor Diagram",
+            "Distillation Column Diagram",
+            "Mass Balance Diagram",
+            "Energy Balance Diagram",
+            "Pressure-Temperature Phase Diagram",
+            "Vapor-Liquid Equilibrium Diagram",
+            "Hazard and Operability (HAZOP) Diagram",
+            "Reaction Kinetics Diagram",
+            "Mixing and Separation Diagram"
+          ]
+        }
+      ],
+      "diagrams": [
+        "Block Flow Diagram (BFD)",
+        "Process Flow Diagram (PFD)",
+        "Piping and Instrumentation Diagram (P&ID)",
+        "Process Equipment Layout",
+        "Process Control Loop Diagram",
+        "Chemical Reactor Diagram",
+        "Distillation Column Diagram",
+        "Heat Exchanger Flow Diagram",
+        "Mass Balance Diagram",
+        "Energy Balance Diagram",
+        "Pressure-Temperature Phase Diagram",
+        "Vapor-Liquid Equilibrium Diagram",
+        "Chemical Plant Utility Flow Diagram",
+        "Process Safety Bow-Tie Diagram",
+        "Hazard and Operability (HAZOP) Diagram",
+        "Pressure Relief System Diagram",
+        "Reaction Kinetics Diagram",
+        "Fluid Flow Streamline Diagram",
+        "Mixing and Separation Diagram",
+        "Process Simulation Flowsheet"
+      ]
+    },
+    {
+      "id": "domain-16",
+      "name": "Robotics, mechatronics, and control systems",
+      "groups": [
+        {
+          "name": "Flows & processes",
+          "diagrams": [
+            "Robot Perception Pipeline"
+          ]
+        },
+        {
+          "name": "Structures & architecture",
+          "diagrams": [
+            "Control System Block Diagram"
+          ]
+        },
+        {
+          "name": "Charts & analytics",
+          "diagrams": [
+            "SLAM Mapping Diagram",
+            "Root Locus Plot"
+          ]
+        },
+        {
+          "name": "Networks & relationships",
+          "diagrams": [
+            "Human-Robot Interaction Diagram",
+            "Robot Swarm Network Diagram"
+          ]
+        },
+        {
+          "name": "Simulation & modeling",
+          "diagrams": [
+            "Robot Kinematic Chain Diagram",
+            "Robot Motion Planning Diagram",
+            "Robot Trajectory Diagram",
+            "Forward Kinematics Diagram",
+            "Inverse Kinematics Diagram",
+            "PID Controller Diagram",
+            "State-Space Model Diagram"
+          ]
+        },
+        {
+          "name": "Illustrations & explainers",
+          "diagrams": [
+            "Robot Joint Coordinate Diagram",
+            "Robot Workspace Diagram",
+            "Robot Sensor Fusion Diagram",
+            "Autonomous Navigation Diagram",
+            "Closed-Loop Feedback Diagram",
+            "Robotic Manipulator Force Diagram",
+            "Multi-Robot Coordination Diagram"
+          ]
+        }
+      ],
+      "diagrams": [
+        "Robot Kinematic Chain Diagram",
+        "Robot Joint Coordinate Diagram",
+        "Robot Workspace Diagram",
+        "Robot Motion Planning Diagram",
+        "Robot Trajectory Diagram",
+        "Forward Kinematics Diagram",
+        "Inverse Kinematics Diagram",
+        "Robot Sensor Fusion Diagram",
+        "SLAM Mapping Diagram",
+        "Autonomous Navigation Diagram",
+        "Control System Block Diagram",
+        "Closed-Loop Feedback Diagram",
+        "PID Controller Diagram",
+        "State-Space Model Diagram",
+        "Root Locus Plot",
+        "Robotic Manipulator Force Diagram",
+        "Robot Perception Pipeline",
+        "Human-Robot Interaction Diagram",
+        "Multi-Robot Coordination Diagram",
+        "Robot Swarm Network Diagram"
+      ]
+    },
+    {
+      "id": "domain-17",
+      "name": "Automotive and transportation engineering",
+      "groups": [
+        {
+          "name": "Flows & processes",
+          "diagrams": [
+            "Engine Combustion Cycle Diagram"
+          ]
+        },
+        {
+          "name": "Structures & architecture",
+          "diagrams": [
+            "Vehicle Systems Architecture Diagram",
+            "Vehicle Electrical Architecture Diagram",
+            "Brake Hydraulic System Diagram",
+            "Battery Management System (BMS) Diagram",
+            "EV Charging Architecture Diagram",
+            "Rail Track Layout Diagram",
+            "Train Braking System Diagram"
+          ]
+        },
+        {
+          "name": "Simulation & modeling",
+          "diagrams": [
+            "Steering Kinematics Diagram"
+          ]
+        },
+        {
+          "name": "Illustrations & explainers",
+          "diagrams": [
+            "Automotive CAN Bus Diagram",
+            "Vehicle Powertrain Diagram",
+            "Transmission Gear Diagram",
+            "Suspension Geometry Diagram",
+            "Electric Vehicle Battery Pack Diagram",
+            "Vehicle Thermal Management Diagram",
+            "ADAS Sensor Coverage Diagram",
+            "Autonomous Driving Perception Diagram",
+            "Vehicle Crash Deformation Diagram",
+            "Railway Signaling Diagram",
+            "Railway Interlocking Diagram"
+          ]
+        }
+      ],
+      "diagrams": [
+        "Vehicle Systems Architecture Diagram",
+        "Vehicle Electrical Architecture Diagram",
+        "Automotive CAN Bus Diagram",
+        "Vehicle Powertrain Diagram",
+        "Engine Combustion Cycle Diagram",
+        "Transmission Gear Diagram",
+        "Suspension Geometry Diagram",
+        "Steering Kinematics Diagram",
+        "Brake Hydraulic System Diagram",
+        "Electric Vehicle Battery Pack Diagram",
+        "Battery Management System (BMS) Diagram",
+        "Vehicle Thermal Management Diagram",
+        "ADAS Sensor Coverage Diagram",
+        "Autonomous Driving Perception Diagram",
+        "Vehicle Crash Deformation Diagram",
+        "EV Charging Architecture Diagram",
+        "Railway Signaling Diagram",
+        "Rail Track Layout Diagram",
+        "Railway Interlocking Diagram",
+        "Train Braking System Diagram"
+      ]
+    },
+    {
+      "id": "domain-18",
+      "name": "Marine, naval, and ocean engineering",
+      "groups": [
+        {
+          "name": "Flows & processes",
+          "diagrams": [
+            "Ship Navigation Route Diagram"
+          ]
+        },
+        {
+          "name": "Structures & architecture",
+          "diagrams": [
+            "Ship Compartment Layout",
+            "Naval Propulsion System Diagram",
+            "Ballast Water System Diagram",
+            "Submarine Cross-Section",
+            "Dynamic Positioning System Diagram",
+            "Mooring Configuration Diagram"
+          ]
+        },
+        {
+          "name": "Charts & analytics",
+          "diagrams": [
+            "Righting Arm (GZ) Curve"
+          ]
+        },
+        {
+          "name": "Simulation & modeling",
+          "diagrams": [
+            "Vessel Damage Control Diagram"
+          ]
+        },
+        {
+          "name": "Illustrations & explainers",
+          "diagrams": [
+            "Ship General Arrangement Drawing",
+            "Hull Lines Plan",
+            "Ship Stability Diagram",
+            "Marine Electrical One-Line Diagram",
+            "Ship Piping Diagram",
+            "Offshore Platform Structural Diagram",
+            "Ocean Current Vector Diagram"
+          ]
+        }
+      ],
+      "diagrams": [
+        "Ship General Arrangement Drawing",
+        "Hull Lines Plan",
+        "Ship Compartment Layout",
+        "Ship Stability Diagram",
+        "Righting Arm (GZ) Curve",
+        "Naval Propulsion System Diagram",
+        "Marine Electrical One-Line Diagram",
+        "Ballast Water System Diagram",
+        "Ship Piping Diagram",
+        "Vessel Damage Control Diagram",
+        "Submarine Cross-Section",
+        "Offshore Platform Structural Diagram",
+        "Dynamic Positioning System Diagram",
+        "Mooring Configuration Diagram",
+        "Ocean Current Vector Diagram",
+        "Ship Navigation Route Diagram"
+      ]
+    },
+    {
+      "id": "domain-19",
+      "name": "Medicine and clinical healthcare",
+      "groups": [
+        {
+          "name": "Flows & processes",
+          "diagrams": [
+            "Nerve Pathway",
+            "Circulatory System Flow",
+            "Respiratory Cycle",
+            "Differential Diagnosis Flowchart",
+            "Treatment Pathway",
+            "Clinical Care Pathway",
+            "Medication Administration Flow",
+            "Surgical Workflow",
+            "Patient Journey Map",
+            "Hospital Admission/Discharge Flow",
+            "Surgical Procedure Diagram",
+            "Cardiac Cycle Diagram",
+            "Neural Pathway Diagram",
+            "Infusion Pump Flow Diagram",
+            "Electronic Health Record (EHR) Data Flow"
+          ]
+        },
+        {
+          "name": "Structures & architecture",
+          "diagrams": [
+            "Anatomical Illustration",
+            "Organ System Diagram",
+            "Vascular Anatomy",
+            "Operative Anatomy Diagram",
+            "CT Cross-Section",
+            "Ultrasound Anatomy Overlay",
+            "Ventilator Circuit Diagram",
+            "Patient Monitoring Architecture",
+            "Hospital Information System Architecture"
+          ]
+        },
+        {
+          "name": "Charts & analytics",
+          "diagrams": [
+            "Muscle Map",
+            "Minimally Invasive Surgery Port Map",
+            "Coronary Artery Map",
+            "Brain Region Map",
+            "Disease Progression Chart"
+          ]
+        },
+        {
+          "name": "Networks & relationships",
+          "diagrams": [
+            "Clinical Decision Tree",
+            "Contact Tracing Network"
+          ]
+        },
+        {
+          "name": "Illustrations & explainers",
+          "diagrams": [
+            "Skeleton Diagram",
+            "Cardiac Conduction Diagram",
+            "Endocrine Feedback Loop",
+            "Diagnostic Algorithm",
+            "Triage Decision Diagram",
+            "Care Coordination Diagram",
+            "MRI Slice Diagram",
+            "Radiology Annotation",
+            "ECG Waveform",
+            "Pressure-Volume Loop",
+            "Reflex Arc",
+            "EEG Trace Diagram",
+            "Epidemiological Transmission Diagram",
+            "HL7/FHIR Integration Diagram"
+          ]
+        }
+      ],
+      "diagrams": [
+        "Anatomical Illustration",
+        "Organ System Diagram",
+        "Skeleton Diagram",
+        "Muscle Map",
+        "Nerve Pathway",
+        "Vascular Anatomy",
+        "Circulatory System Flow",
+        "Respiratory Cycle",
+        "Cardiac Conduction Diagram",
+        "Endocrine Feedback Loop",
+        "Clinical Decision Tree",
+        "Diagnostic Algorithm",
+        "Differential Diagnosis Flowchart",
+        "Triage Decision Diagram",
+        "Treatment Pathway",
+        "Clinical Care Pathway",
+        "Medication Administration Flow",
+        "Surgical Workflow",
+        "Patient Journey Map",
+        "Care Coordination Diagram",
+        "Hospital Admission/Discharge Flow",
+        "Surgical Procedure Diagram",
+        "Operative Anatomy Diagram",
+        "Minimally Invasive Surgery Port Map",
+        "MRI Slice Diagram",
+        "CT Cross-Section",
+        "Ultrasound Anatomy Overlay",
+        "Radiology Annotation",
+        "ECG Waveform",
+        "Cardiac Cycle Diagram",
+        "Pressure-Volume Loop",
+        "Coronary Artery Map",
+        "Brain Region Map",
+        "Neural Pathway Diagram",
+        "Reflex Arc",
+        "EEG Trace Diagram",
+        "Epidemiological Transmission Diagram",
+        "Contact Tracing Network",
+        "Disease Progression Chart",
+        "Ventilator Circuit Diagram",
+        "Infusion Pump Flow Diagram",
+        "Patient Monitoring Architecture",
+        "Electronic Health Record (EHR) Data Flow",
+        "HL7/FHIR Integration Diagram",
+        "Hospital Information System Architecture"
+      ]
+    },
+    {
+      "id": "domain-20",
+      "name": "Biology, genetics, and molecular sciences",
+      "groups": [
+        {
+          "name": "Flows & processes",
+          "diagrams": [
+            "Cell Cycle Diagram",
+            "Molecular Signaling Pathway",
+            "Metabolic Pathway Diagram",
+            "Membrane Transport Diagram"
+          ]
+        },
+        {
+          "name": "Structures & architecture",
+          "diagrams": [
+            "Cell Structure Diagram",
+            "Protein Structure Diagram"
+          ]
+        },
+        {
+          "name": "Charts & analytics",
+          "diagrams": [
+            "Genome Circos Plot",
+            "Single-Cell Clustering Map"
+          ]
+        },
+        {
+          "name": "Networks & relationships",
+          "diagrams": [
+            "Gene Regulatory Network",
+            "Phylogenetic Tree",
+            "Evolutionary Tree",
+            "Ecological Interaction Network"
+          ]
+        },
+        {
+          "name": "Illustrations & explainers",
+          "diagrams": [
+            "Plant Cell Diagram",
+            "Animal Cell Diagram",
+            "Mitosis Diagram",
+            "Meiosis Diagram",
+            "DNA Double-Helix Diagram",
+            "DNA Replication Diagram",
+            "RNA Transcription Diagram",
+            "Protein Translation Diagram",
+            "Gene Expression Diagram",
+            "Food Web",
+            "Species Population Diagram",
+            "Protein Folding Diagram",
+            "Enzyme Reaction Diagram",
+            "CRISPR Editing Diagram",
+            "Chromosome Ideogram",
+            "Genetic Pedigree Diagram"
+          ]
+        }
+      ],
+      "diagrams": [
+        "Cell Structure Diagram",
+        "Plant Cell Diagram",
+        "Animal Cell Diagram",
+        "Cell Cycle Diagram",
+        "Mitosis Diagram",
+        "Meiosis Diagram",
+        "DNA Double-Helix Diagram",
+        "DNA Replication Diagram",
+        "RNA Transcription Diagram",
+        "Protein Translation Diagram",
+        "Gene Expression Diagram",
+        "Gene Regulatory Network",
+        "Molecular Signaling Pathway",
+        "Metabolic Pathway Diagram",
+        "Phylogenetic Tree",
+        "Evolutionary Tree",
+        "Food Web",
+        "Ecological Interaction Network",
+        "Species Population Diagram",
+        "Protein Structure Diagram",
+        "Protein Folding Diagram",
+        "Membrane Transport Diagram",
+        "Enzyme Reaction Diagram",
+        "CRISPR Editing Diagram",
+        "Chromosome Ideogram",
+        "Genetic Pedigree Diagram",
+        "Genome Circos Plot",
+        "Single-Cell Clustering Map"
+      ]
+    },
+    {
+      "id": "domain-21",
+      "name": "Pharmacology, biotechnology, and drug development",
+      "groups": [
+        {
+          "name": "Flows & processes",
+          "diagrams": [
+            "Drug Discovery Pipeline",
+            "ADME Process Diagram",
+            "Drug Metabolism Pathway",
+            "Clinical Trial Flow Diagram",
+            "CONSORT Participant Flowchart",
+            "Bioreactor Process Diagram",
+            "Biomanufacturing Workflow",
+            "Bioprocess Mass Balance Diagram"
+          ]
+        },
+        {
+          "name": "Structures & architecture",
+          "diagrams": [
+            "Drug Mechanism of Action Diagram",
+            "Monoclonal Antibody Structure Diagram",
+            "Drug Delivery System Diagram",
+            "Biomedical Device Architecture Diagram"
+          ]
+        },
+        {
+          "name": "Charts & analytics",
+          "diagrams": [
+            "Pharmacodynamic Dose-Response Curve"
+          ]
+        },
+        {
+          "name": "Networks & relationships",
+          "diagrams": [
+            "Protein Interaction Network"
+          ]
+        },
+        {
+          "name": "Simulation & modeling",
+          "diagrams": [
+            "Pharmacokinetic Compartment Model"
+          ]
+        },
+        {
+          "name": "Illustrations & explainers",
+          "diagrams": [
+            "Drug-Receptor Binding Diagram",
+            "Randomization Diagram",
+            "Molecular Docking Visualization"
+          ]
+        }
+      ],
+      "diagrams": [
+        "Drug Discovery Pipeline",
+        "Drug Mechanism of Action Diagram",
+        "Drug-Receptor Binding Diagram",
+        "Pharmacokinetic Compartment Model",
+        "Pharmacodynamic Dose-Response Curve",
+        "ADME Process Diagram",
+        "Drug Metabolism Pathway",
+        "Clinical Trial Flow Diagram",
+        "CONSORT Participant Flowchart",
+        "Randomization Diagram",
+        "Bioreactor Process Diagram",
+        "Biomanufacturing Workflow",
+        "Monoclonal Antibody Structure Diagram",
+        "Molecular Docking Visualization",
+        "Drug Delivery System Diagram",
+        "Protein Interaction Network",
+        "Biomedical Device Architecture Diagram",
+        "Bioprocess Mass Balance Diagram"
+      ]
+    },
+    {
+      "id": "domain-22",
+      "name": "Physics and physical sciences",
+      "groups": [
+        {
+          "name": "Structures & architecture",
+          "diagrams": [
+            "Atomic Orbital Diagram"
+          ]
+        },
+        {
+          "name": "Charts & analytics",
+          "diagrams": [
+            "Position-Velocity-Acceleration Graph"
+          ]
+        },
+        {
+          "name": "Simulation & modeling",
+          "diagrams": [
+            "Motion Diagram",
+            "Projectile Motion Trajectory",
+            "Quantum State Diagram",
+            "Particle Collision Diagram"
+          ]
+        },
+        {
+          "name": "Illustrations & explainers",
+          "diagrams": [
+            "Free-Body Diagram",
+            "Force Vector Diagram",
+            "Energy-Level Diagram",
+            "Feynman Diagram",
+            "Spacetime Diagram",
+            "Minkowski Diagram",
+            "Bloch Sphere",
+            "Nuclear Decay Scheme",
+            "Electromagnetic Field-Line Diagram",
+            "Magnetic Flux Diagram",
+            "Wave Interference Diagram",
+            "Standing Wave Diagram",
+            "Thermodynamic Phase Diagram",
+            "Pressure-Volume (P-V) Diagram",
+            "Temperature-Entropy (T-S) Diagram",
+            "Potential Energy Diagram",
+            "Optics Ray-Tracing Diagram",
+            "Optical Interferometer Diagram"
+          ]
+        }
+      ],
+      "diagrams": [
+        "Free-Body Diagram",
+        "Force Vector Diagram",
+        "Motion Diagram",
+        "Position-Velocity-Acceleration Graph",
+        "Projectile Motion Trajectory",
+        "Energy-Level Diagram",
+        "Feynman Diagram",
+        "Spacetime Diagram",
+        "Minkowski Diagram",
+        "Quantum State Diagram",
+        "Bloch Sphere",
+        "Atomic Orbital Diagram",
+        "Nuclear Decay Scheme",
+        "Particle Collision Diagram",
+        "Electromagnetic Field-Line Diagram",
+        "Magnetic Flux Diagram",
+        "Wave Interference Diagram",
+        "Standing Wave Diagram",
+        "Thermodynamic Phase Diagram",
+        "Pressure-Volume (P-V) Diagram",
+        "Temperature-Entropy (T-S) Diagram",
+        "Potential Energy Diagram",
+        "Optics Ray-Tracing Diagram",
+        "Optical Interferometer Diagram"
+      ]
+    },
+    {
+      "id": "domain-23",
+      "name": "Chemistry and materials science",
+      "groups": [
+        {
+          "name": "Structures & architecture",
+          "diagrams": [
+            "Lewis Dot Structure",
+            "Skeletal Chemical Structure",
+            "Reaction Mechanism Diagram",
+            "Molecular Orbital Diagram",
+            "Band Structure Diagram",
+            "Material Microstructure Diagram",
+            "Nanoparticle Structure Diagram"
+          ]
+        },
+        {
+          "name": "Charts & analytics",
+          "diagrams": [
+            "Titration Curve",
+            "Diffusion Profile Diagram"
+          ]
+        },
+        {
+          "name": "Illustrations & explainers",
+          "diagrams": [
+            "Molecular Structural Formula",
+            "Chemical Reaction Coordinate Diagram",
+            "Crystal Lattice Diagram",
+            "Unit Cell Diagram",
+            "Phase Equilibrium Diagram",
+            "Ternary Phase Diagram",
+            "Pourbaix Diagram",
+            "Ellingham Diagram",
+            "Electrochemical Cell Diagram",
+            "Spectroscopic Energy Transition Diagram",
+            "Polymer Chain Diagram",
+            "Grain Boundary Diagram",
+            "Material Stress-Strain Diagram",
+            "X-Ray Diffraction Pattern",
+            "Surface Chemistry Adsorption Diagram"
+          ]
+        }
+      ],
+      "diagrams": [
+        "Lewis Dot Structure",
+        "Molecular Structural Formula",
+        "Skeletal Chemical Structure",
+        "Reaction Mechanism Diagram",
+        "Chemical Reaction Coordinate Diagram",
+        "Molecular Orbital Diagram",
+        "Crystal Lattice Diagram",
+        "Unit Cell Diagram",
+        "Band Structure Diagram",
+        "Phase Equilibrium Diagram",
+        "Ternary Phase Diagram",
+        "Pourbaix Diagram",
+        "Ellingham Diagram",
+        "Electrochemical Cell Diagram",
+        "Titration Curve",
+        "Spectroscopic Energy Transition Diagram",
+        "Polymer Chain Diagram",
+        "Material Microstructure Diagram",
+        "Grain Boundary Diagram",
+        "Material Stress-Strain Diagram",
+        "Diffusion Profile Diagram",
+        "Nanoparticle Structure Diagram",
+        "X-Ray Diffraction Pattern",
+        "Surface Chemistry Adsorption Diagram"
+      ]
+    },
+    {
+      "id": "domain-24",
+      "name": "Mathematics and theoretical modeling",
+      "groups": [
+        {
+          "name": "Charts & analytics",
+          "diagrams": [
+            "Cartesian Coordinate Plot",
+            "Polar Coordinate Plot",
+            "Parametric Curve Diagram",
+            "Graph Theory Network",
+            "Karnaugh Map",
+            "Complex Plane Plot"
+          ]
+        },
+        {
+          "name": "Simulation & modeling",
+          "diagrams": [
+            "Automata State Diagram",
+            "Finite-State Machine Diagram",
+            "Turing Machine State Diagram"
+          ]
+        },
+        {
+          "name": "Illustrations & explainers",
+          "diagrams": [
+            "Function Transformation Diagram",
+            "Geometric Construction",
+            "Proof Diagram",
+            "Geometric Transformation Diagram",
+            "Vector Field",
+            "Phase Portrait",
+            "Bifurcation Diagram",
+            "Cobweb Diagram",
+            "Commutative Diagram",
+            "Category Theory Diagram",
+            "Hasse Diagram",
+            "Lattice Diagram",
+            "Truth Table",
+            "Voronoi Diagram",
+            "Delaunay Triangulation",
+            "Fractal Visualization",
+            "Mandelbrot Set Visualization",
+            "Julia Set Visualization",
+            "Riemann Surface Visualization",
+            "Topological Knot Diagram"
+          ]
+        }
+      ],
+      "diagrams": [
+        "Cartesian Coordinate Plot",
+        "Polar Coordinate Plot",
+        "Parametric Curve Diagram",
+        "Function Transformation Diagram",
+        "Geometric Construction",
+        "Proof Diagram",
+        "Geometric Transformation Diagram",
+        "Vector Field",
+        "Phase Portrait",
+        "Bifurcation Diagram",
+        "Cobweb Diagram",
+        "Commutative Diagram",
+        "Category Theory Diagram",
+        "Graph Theory Network",
+        "Hasse Diagram",
+        "Lattice Diagram",
+        "Truth Table",
+        "Karnaugh Map",
+        "Automata State Diagram",
+        "Finite-State Machine Diagram",
+        "Turing Machine State Diagram",
+        "Voronoi Diagram",
+        "Delaunay Triangulation",
+        "Fractal Visualization",
+        "Mandelbrot Set Visualization",
+        "Julia Set Visualization",
+        "Complex Plane Plot",
+        "Riemann Surface Visualization",
+        "Topological Knot Diagram"
+      ]
+    },
+    {
+      "id": "domain-25",
+      "name": "Earth sciences, geology, and geophysics",
+      "groups": [
+        {
+          "name": "Flows & processes",
+          "diagrams": [
+            "Rock Cycle Diagram",
+            "Hydrological Cycle Diagram",
+            "Groundwater Flow Diagram"
+          ]
+        },
+        {
+          "name": "Structures & architecture",
+          "diagrams": [
+            "Geological Cross-Section",
+            "Fault Structure Diagram",
+            "Earthquake Fault Mechanism Diagram",
+            "Volcanic Structure Diagram",
+            "Aquifer Cross-Section"
+          ]
+        },
+        {
+          "name": "Charts & analytics",
+          "diagrams": [
+            "Stratigraphic Column",
+            "Geomorphology Profile",
+            "Geological Time Scale",
+            "Geochemical Distribution Map",
+            "Soil Profile Diagram"
+          ]
+        },
+        {
+          "name": "Simulation & modeling",
+          "diagrams": [
+            "Mineral Deposit Model"
+          ]
+        },
+        {
+          "name": "Illustrations & explainers",
+          "diagrams": [
+            "Plate Tectonic Boundary Diagram",
+            "Seismic Wave Propagation Diagram",
+            "Seismic Section",
+            "Magma Chamber Diagram",
+            "Geophysical Resistivity Section",
+            "Geotechnical Borehole Log"
+          ]
+        }
+      ],
+      "diagrams": [
+        "Geological Cross-Section",
+        "Stratigraphic Column",
+        "Rock Cycle Diagram",
+        "Plate Tectonic Boundary Diagram",
+        "Fault Structure Diagram",
+        "Seismic Wave Propagation Diagram",
+        "Seismic Section",
+        "Earthquake Fault Mechanism Diagram",
+        "Volcanic Structure Diagram",
+        "Magma Chamber Diagram",
+        "Geomorphology Profile",
+        "Geological Time Scale",
+        "Hydrological Cycle Diagram",
+        "Groundwater Flow Diagram",
+        "Aquifer Cross-Section",
+        "Mineral Deposit Model",
+        "Geochemical Distribution Map",
+        "Geophysical Resistivity Section",
+        "Soil Profile Diagram",
+        "Geotechnical Borehole Log"
+      ]
+    },
+    {
+      "id": "domain-26",
+      "name": "Environmental science, climate, and meteorology",
+      "groups": [
+        {
+          "name": "Flows & processes",
+          "diagrams": [
+            "Carbon Cycle Diagram",
+            "Nitrogen Cycle Diagram",
+            "Water Cycle Diagram",
+            "Ecosystem Energy Flow Diagram",
+            "Environmental Impact Pathway Diagram"
+          ]
+        },
+        {
+          "name": "Structures & architecture",
+          "diagrams": [
+            "Climate System Feedback Diagram"
+          ]
+        },
+        {
+          "name": "Charts & analytics",
+          "diagrams": [
+            "Atmospheric Pressure Map",
+            "Synoptic Weather Chart",
+            "Climate Change Scenario Chart",
+            "Flood Risk Map"
+          ]
+        },
+        {
+          "name": "Networks & relationships",
+          "diagrams": [
+            "Ocean-Atmosphere Interaction Diagram",
+            "Biodiversity Network"
+          ]
+        },
+        {
+          "name": "Illustrations & explainers",
+          "diagrams": [
+            "Ecological Food Web",
+            "Atmospheric Circulation Diagram",
+            "Hadley Cell Diagram",
+            "Weather Front Diagram",
+            "Wind Rose Diagram",
+            "Greenhouse Effect Diagram",
+            "Carbon Footprint Sankey Diagram",
+            "Watershed Diagram"
+          ]
+        }
+      ],
+      "diagrams": [
+        "Carbon Cycle Diagram",
+        "Nitrogen Cycle Diagram",
+        "Water Cycle Diagram",
+        "Ecosystem Energy Flow Diagram",
+        "Ecological Food Web",
+        "Climate System Feedback Diagram",
+        "Atmospheric Circulation Diagram",
+        "Hadley Cell Diagram",
+        "Ocean-Atmosphere Interaction Diagram",
+        "Weather Front Diagram",
+        "Atmospheric Pressure Map",
+        "Synoptic Weather Chart",
+        "Wind Rose Diagram",
+        "Climate Change Scenario Chart",
+        "Greenhouse Effect Diagram",
+        "Carbon Footprint Sankey Diagram",
+        "Watershed Diagram",
+        "Flood Risk Map",
+        "Biodiversity Network",
+        "Environmental Impact Pathway Diagram"
+      ]
+    },
+    {
+      "id": "domain-27",
+      "name": "Astronomy, astrophysics, and cosmology",
+      "groups": [
+        {
+          "name": "Flows & processes",
+          "diagrams": [
+            "Star Life Cycle Diagram",
+            "Cosmological Timeline"
+          ]
+        },
+        {
+          "name": "Structures & architecture",
+          "diagrams": [
+            "Solar System Orbital Diagram",
+            "Galactic Structure Diagram"
+          ]
+        },
+        {
+          "name": "Charts & analytics",
+          "diagrams": [
+            "Galaxy Rotation Curve",
+            "Exoplanet Transit Light Curve",
+            "Cosmic Microwave Background Map",
+            "Star Chart",
+            "Sky Map",
+            "Gravitational Wave Strain Plot"
+          ]
+        },
+        {
+          "name": "Simulation & modeling",
+          "diagrams": [
+            "Planetary Orbit Diagram"
+          ]
+        },
+        {
+          "name": "Illustrations & explainers",
+          "diagrams": [
+            "Hertzsprung-Russell Diagram",
+            "Stellar Interior Diagram",
+            "Black Hole Accretion Disk Diagram",
+            "Gravitational Lensing Diagram",
+            "Expanding Universe Diagram",
+            "Light Cone Diagram",
+            "Celestial Sphere Diagram",
+            "Telescope Optical Path Diagram",
+            "Space-Time Curvature Visualization"
+          ]
+        }
+      ],
+      "diagrams": [
+        "Solar System Orbital Diagram",
+        "Planetary Orbit Diagram",
+        "Star Life Cycle Diagram",
+        "Hertzsprung-Russell Diagram",
+        "Stellar Interior Diagram",
+        "Galactic Structure Diagram",
+        "Galaxy Rotation Curve",
+        "Black Hole Accretion Disk Diagram",
+        "Gravitational Lensing Diagram",
+        "Exoplanet Transit Light Curve",
+        "Cosmic Microwave Background Map",
+        "Cosmological Timeline",
+        "Expanding Universe Diagram",
+        "Light Cone Diagram",
+        "Celestial Sphere Diagram",
+        "Star Chart",
+        "Sky Map",
+        "Telescope Optical Path Diagram",
+        "Space-Time Curvature Visualization",
+        "Gravitational Wave Strain Plot"
+      ]
+    },
+    {
+      "id": "domain-28",
+      "name": "Geography, cartography, GIS, and urban planning",
+      "groups": [
+        {
+          "name": "Flows & processes",
+          "diagrams": [
+            "Flow Map",
+            "Public Transit Route Diagram"
+          ]
+        },
+        {
+          "name": "Structures & architecture",
+          "diagrams": [
+            "Geographic Information System (GIS) Map"
+          ]
+        },
+        {
+          "name": "Charts & analytics",
+          "diagrams": [
+            "Topographic Contour Map",
+            "Choropleth Map",
+            "Heat Map",
+            "Isoline Map",
+            "Dot Density Map",
+            "Proportional Symbol Map",
+            "Origin-Destination Map",
+            "Geographic Network Diagram",
+            "Urban Zoning Map",
+            "Population Density Map",
+            "Elevation Profile",
+            "Watershed Boundary Map",
+            "Walkability Analysis Map"
+          ]
+        },
+        {
+          "name": "Networks & relationships",
+          "diagrams": [
+            "Road Network Diagram"
+          ]
+        },
+        {
+          "name": "Simulation & modeling",
+          "diagrams": [
+            "Urban Growth Simulation"
+          ]
+        },
+        {
+          "name": "Illustrations & explainers",
+          "diagrams": [
+            "Cartogram",
+            "Land Use Diagram",
+            "3D Terrain Visualization",
+            "Urban Circulation Diagram",
+            "Viewshed Diagram"
+          ]
+        }
+      ],
+      "diagrams": [
+        "Geographic Information System (GIS) Map",
+        "Topographic Contour Map",
+        "Choropleth Map",
+        "Heat Map",
+        "Isoline Map",
+        "Dot Density Map",
+        "Proportional Symbol Map",
+        "Cartogram",
+        "Flow Map",
+        "Origin-Destination Map",
+        "Geographic Network Diagram",
+        "Road Network Diagram",
+        "Public Transit Route Diagram",
+        "Urban Zoning Map",
+        "Land Use Diagram",
+        "Population Density Map",
+        "3D Terrain Visualization",
+        "Elevation Profile",
+        "Watershed Boundary Map",
+        "Urban Circulation Diagram",
+        "Walkability Analysis Map",
+        "Viewshed Diagram",
+        "Urban Growth Simulation"
+      ]
+    },
+    {
+      "id": "domain-29",
+      "name": "Energy, nuclear, oil, gas, and mining",
+      "groups": [
+        {
+          "name": "Flows & processes",
+          "diagrams": [
+            "Energy Generation Flow Diagram",
+            "Hydrogen Production Flow Diagram",
+            "Nuclear Fuel Cycle Diagram",
+            "Petroleum Refinery Process Flow Diagram",
+            "Pipeline Network Diagram"
+          ]
+        },
+        {
+          "name": "Structures & architecture",
+          "diagrams": [
+            "Solar Photovoltaic System Diagram",
+            "Wind Turbine Cutaway Diagram",
+            "Wind Farm Layout",
+            "Microgrid Architecture Diagram",
+            "Reactor Cooling System Diagram",
+            "Drilling Rig Schematic",
+            "Reservoir Cross-Section",
+            "Underground Mine Layout",
+            "Open-Pit Mine Design Diagram"
+          ]
+        },
+        {
+          "name": "Illustrations & explainers",
+          "diagrams": [
+            "Electrical Grid Single-Line Diagram",
+            "Battery Energy Storage Diagram",
+            "Fuel Cell Diagram",
+            "Nuclear Reactor Core Diagram",
+            "Radiation Shielding Diagram",
+            "Oil Well Completion Diagram",
+            "Mining Ventilation Diagram"
+          ]
+        }
+      ],
+      "diagrams": [
+        "Electrical Grid Single-Line Diagram",
+        "Energy Generation Flow Diagram",
+        "Solar Photovoltaic System Diagram",
+        "Wind Turbine Cutaway Diagram",
+        "Wind Farm Layout",
+        "Battery Energy Storage Diagram",
+        "Microgrid Architecture Diagram",
+        "Hydrogen Production Flow Diagram",
+        "Fuel Cell Diagram",
+        "Nuclear Reactor Core Diagram",
+        "Nuclear Fuel Cycle Diagram",
+        "Reactor Cooling System Diagram",
+        "Radiation Shielding Diagram",
+        "Petroleum Refinery Process Flow Diagram",
+        "Oil Well Completion Diagram",
+        "Drilling Rig Schematic",
+        "Reservoir Cross-Section",
+        "Pipeline Network Diagram",
+        "Mining Ventilation Diagram",
+        "Underground Mine Layout",
+        "Open-Pit Mine Design Diagram"
+      ]
+    },
+    {
+      "id": "domain-30",
+      "name": "Logistics, shipping, and supply chain",
+      "groups": [
+        {
+          "name": "Flows & processes",
+          "diagrams": [
+            "Logistics Flow Diagram",
+            "Inventory Flow Diagram",
+            "Fulfillment Workflow",
+            "Order Processing Diagram",
+            "Freight Transportation Network",
+            "Last-Mile Delivery Route Diagram",
+            "Route Optimization Diagram",
+            "Shipment Tracking Timeline",
+            "Cross-Docking Workflow",
+            "Cold Chain Process Diagram"
+          ]
+        },
+        {
+          "name": "Structures & architecture",
+          "diagrams": [
+            "Warehouse Layout Diagram"
+          ]
+        },
+        {
+          "name": "Charts & analytics",
+          "diagrams": [
+            "Distribution Network Diagram",
+            "Supply Chain Risk Map"
+          ]
+        },
+        {
+          "name": "Networks & relationships",
+          "diagrams": [
+            "Supply Chain Network Diagram"
+          ]
+        },
+        {
+          "name": "Illustrations & explainers",
+          "diagrams": [
+            "Container Loading Diagram",
+            "Packaging Optimization Diagram",
+            "Palletization Pattern",
+            "Inventory Replenishment Diagram"
+          ]
+        }
+      ],
+      "diagrams": [
+        "Supply Chain Network Diagram",
+        "Logistics Flow Diagram",
+        "Warehouse Layout Diagram",
+        "Inventory Flow Diagram",
+        "Distribution Network Diagram",
+        "Fulfillment Workflow",
+        "Order Processing Diagram",
+        "Freight Transportation Network",
+        "Last-Mile Delivery Route Diagram",
+        "Route Optimization Diagram",
+        "Shipment Tracking Timeline",
+        "Cross-Docking Workflow",
+        "Container Loading Diagram",
+        "Packaging Optimization Diagram",
+        "Palletization Pattern",
+        "Cold Chain Process Diagram",
+        "Inventory Replenishment Diagram",
+        "Supply Chain Risk Map"
+      ]
+    },
+    {
+      "id": "domain-31",
+      "name": "Finance, accounting, and economics",
+      "groups": [
+        {
+          "name": "Flows & processes",
+          "diagrams": [
+            "Cash Flow Diagram",
+            "Payment Processing Flow Diagram",
+            "Banking Settlement Flow Diagram",
+            "Circular Flow of Income Diagram"
+          ]
+        },
+        {
+          "name": "Structures & architecture",
+          "diagrams": [
+            "Market Structure Diagram"
+          ]
+        },
+        {
+          "name": "Charts & analytics",
+          "diagrams": [
+            "Revenue Waterfall Chart",
+            "Profit and Loss Bridge Chart",
+            "Budget Allocation Chart",
+            "Investment Portfolio Allocation Chart",
+            "Financial Risk Matrix",
+            "Financial Forecast Fan Chart",
+            "Supply and Demand Curve",
+            "Game Theory Payoff Matrix"
+          ]
+        },
+        {
+          "name": "Networks & relationships",
+          "diagrams": [
+            "Financial Statement Relationship Diagram",
+            "Fraud Detection Network"
+          ]
+        },
+        {
+          "name": "Illustrations & explainers",
+          "diagrams": [
+            "Financial Sankey Diagram",
+            "Capitalization Table Diagram",
+            "Business Valuation Diagram",
+            "Accounts Reconciliation Diagram",
+            "Production Possibility Frontier",
+            "Economic Input-Output Diagram",
+            "Economic Causal Loop Diagram"
+          ]
+        }
+      ],
+      "diagrams": [
+        "Financial Sankey Diagram",
+        "Cash Flow Diagram",
+        "Revenue Waterfall Chart",
+        "Profit and Loss Bridge Chart",
+        "Financial Statement Relationship Diagram",
+        "Budget Allocation Chart",
+        "Investment Portfolio Allocation Chart",
+        "Capitalization Table Diagram",
+        "Financial Risk Matrix",
+        "Business Valuation Diagram",
+        "Payment Processing Flow Diagram",
+        "Banking Settlement Flow Diagram",
+        "Accounts Reconciliation Diagram",
+        "Fraud Detection Network",
+        "Financial Forecast Fan Chart",
+        "Supply and Demand Curve",
+        "Production Possibility Frontier",
+        "Circular Flow of Income Diagram",
+        "Economic Input-Output Diagram",
+        "Game Theory Payoff Matrix",
+        "Market Structure Diagram",
+        "Economic Causal Loop Diagram"
+      ]
+    },
+    {
+      "id": "domain-32",
+      "name": "Marketing, sales, and customer experience",
+      "groups": [
+        {
+          "name": "Flows & processes",
+          "diagrams": [
+            "Customer Journey Map",
+            "Customer Lifecycle Diagram",
+            "Sales Pipeline Diagram",
+            "Lead Scoring Workflow",
+            "Marketing Automation Flowchart"
+          ]
+        },
+        {
+          "name": "Charts & analytics",
+          "diagrams": [
+            "Customer Segmentation Map",
+            "Buyer Persona Map",
+            "Brand Positioning Map",
+            "Perceptual Map",
+            "Competitive Landscape Matrix",
+            "Customer Retention Cohort Chart",
+            "Churn Analysis Diagram",
+            "Customer Touchpoint Map"
+          ]
+        },
+        {
+          "name": "Networks & relationships",
+          "diagrams": [
+            "Social Media Engagement Network"
+          ]
+        },
+        {
+          "name": "Illustrations & explainers",
+          "diagrams": [
+            "Marketing Funnel",
+            "Sales Funnel",
+            "Conversion Funnel",
+            "Customer Acquisition Funnel",
+            "Marketing Attribution Diagram",
+            "Campaign Performance Dashboard"
+          ]
+        }
+      ],
+      "diagrams": [
+        "Marketing Funnel",
+        "Sales Funnel",
+        "Conversion Funnel",
+        "Customer Acquisition Funnel",
+        "Customer Journey Map",
+        "Customer Lifecycle Diagram",
+        "Customer Segmentation Map",
+        "Buyer Persona Map",
+        "Brand Positioning Map",
+        "Perceptual Map",
+        "Competitive Landscape Matrix",
+        "Marketing Attribution Diagram",
+        "Sales Pipeline Diagram",
+        "Lead Scoring Workflow",
+        "Customer Retention Cohort Chart",
+        "Churn Analysis Diagram",
+        "Campaign Performance Dashboard",
+        "Customer Touchpoint Map",
+        "Social Media Engagement Network",
+        "Marketing Automation Flowchart"
+      ]
+    },
+    {
+      "id": "domain-33",
+      "name": "UI/UX and product design",
+      "groups": [
+        {
+          "name": "Flows & processes",
+          "diagrams": [
+            "App Navigation Flow",
+            "User Flow Diagram",
+            "User Journey Map",
+            "Screen Flow Diagram",
+            "User Interaction Flow",
+            "User Onboarding Flow"
+          ]
+        },
+        {
+          "name": "Structures & architecture",
+          "diagrams": [
+            "Information Architecture Diagram",
+            "User Experience Ecosystem Map",
+            "Design System Component Hierarchy",
+            "Component State Diagram"
+          ]
+        },
+        {
+          "name": "Charts & analytics",
+          "diagrams": [
+            "Website Sitemap",
+            "User Story Map",
+            "Task Analysis Diagram",
+            "Prototype Interaction Map"
+          ]
+        },
+        {
+          "name": "Networks & relationships",
+          "diagrams": [
+            "Interaction State Diagram"
+          ]
+        },
+        {
+          "name": "Simulation & modeling",
+          "diagrams": [
+            "User Mental Model Diagram"
+          ]
+        },
+        {
+          "name": "Illustrations & explainers",
+          "diagrams": [
+            "Low-Fidelity Wireframe",
+            "High-Fidelity Wireframe",
+            "Service Blueprint",
+            "Responsive Breakpoint Diagram"
+          ]
+        }
+      ],
+      "diagrams": [
+        "Low-Fidelity Wireframe",
+        "High-Fidelity Wireframe",
+        "Website Sitemap",
+        "App Navigation Flow",
+        "User Flow Diagram",
+        "User Journey Map",
+        "Screen Flow Diagram",
+        "User Story Map",
+        "Information Architecture Diagram",
+        "User Interaction Flow",
+        "Task Analysis Diagram",
+        "Service Blueprint",
+        "User Experience Ecosystem Map",
+        "User Mental Model Diagram",
+        "Design System Component Hierarchy",
+        "Component State Diagram",
+        "Responsive Breakpoint Diagram",
+        "Interaction State Diagram",
+        "User Onboarding Flow",
+        "Prototype Interaction Map"
+      ]
+    },
+    {
+      "id": "domain-34",
+      "name": "Statistics, research, and data visualization",
+      "groups": [
+        {
+          "name": "Flows & processes",
+          "diagrams": [
+            "Timeline",
+            "Flow Map",
+            "CONSORT Flowchart"
+          ]
+        },
+        {
+          "name": "Structures & architecture",
+          "diagrams": [
+            "Experimental Design Matrix"
+          ]
+        },
+        {
+          "name": "Charts & analytics",
+          "diagrams": [
+            "Streamgraph",
+            "Slopegraph",
+            "Histogram",
+            "Box Plot",
+            "Violin Plot",
+            "Density Plot",
+            "Ridgeline Plot",
+            "Scatter Plot",
+            "Bubble Chart",
+            "Correlation Matrix",
+            "Pair Plot",
+            "Treemap",
+            "Calendar Heatmap",
+            "Horizon Chart",
+            "Node-Link Graph",
+            "Adjacency Matrix",
+            "Force-Directed Graph",
+            "Contour Plot",
+            "Surface Plot",
+            "Error Bar Plot",
+            "Q-Q Plot",
+            "Residual Plot",
+            "Forest Plot",
+            "Funnel Plot",
+            "Kaplan-Meier Curve"
+          ]
+        },
+        {
+          "name": "Illustrations & explainers",
+          "diagrams": [
+            "Bar",
+            "Column",
+            "Grouped Bar",
+            "Stacked Bar",
+            "Lollipop",
+            "Dumbbell",
+            "Bullet",
+            "Line",
+            "Area",
+            "Stacked Area",
+            "Sparkline",
+            "Beeswarm",
+            "Pie",
+            "Donut",
+            "Sunburst",
+            "Waffle",
+            "Marimekko",
+            "Gantt",
+            "Sankey",
+            "Alluvial Diagram",
+            "Chord Diagram",
+            "Arc Diagram",
+            "Vector Field",
+            "Causal DAG"
+          ]
+        }
+      ],
+      "diagrams": [
+        "Bar",
+        "Column",
+        "Grouped Bar",
+        "Stacked Bar",
+        "Lollipop",
+        "Dumbbell",
+        "Bullet",
+        "Line",
+        "Area",
+        "Stacked Area",
+        "Streamgraph",
+        "Sparkline",
+        "Slopegraph",
+        "Histogram",
+        "Box Plot",
+        "Violin Plot",
+        "Density Plot",
+        "Ridgeline Plot",
+        "Beeswarm",
+        "Scatter Plot",
+        "Bubble Chart",
+        "Correlation Matrix",
+        "Pair Plot",
+        "Pie",
+        "Donut",
+        "Treemap",
+        "Sunburst",
+        "Waffle",
+        "Marimekko",
+        "Timeline",
+        "Gantt",
+        "Calendar Heatmap",
+        "Horizon Chart",
+        "Sankey",
+        "Alluvial Diagram",
+        "Chord Diagram",
+        "Flow Map",
+        "Node-Link Graph",
+        "Arc Diagram",
+        "Adjacency Matrix",
+        "Force-Directed Graph",
+        "Contour Plot",
+        "Surface Plot",
+        "Vector Field",
+        "Error Bar Plot",
+        "Q-Q Plot",
+        "Residual Plot",
+        "Forest Plot",
+        "Funnel Plot",
+        "Kaplan-Meier Curve",
+        "Experimental Design Matrix",
+        "CONSORT Flowchart",
+        "Causal DAG"
+      ]
+    },
+    {
+      "id": "domain-35",
+      "name": "Law, government, regulation, and compliance",
+      "groups": [
+        {
+          "name": "Flows & processes",
+          "diagrams": [
+            "Litigation Timeline",
+            "Court Procedure Flowchart",
+            "Legislative Process Diagram",
+            "Regulatory Reporting Workflow",
+            "Audit Process Flowchart",
+            "Policy Lifecycle Diagram",
+            "Privacy Data Flow Diagram",
+            "Contract Approval Workflow"
+          ]
+        },
+        {
+          "name": "Structures & architecture",
+          "diagrams": [
+            "Governance Structure Diagram"
+          ]
+        },
+        {
+          "name": "Charts & analytics",
+          "diagrams": [
+            "Legal Case Relationship Map",
+            "Regulatory Compliance Matrix",
+            "Government Organizational Chart",
+            "Jurisdiction Map",
+            "Risk and Control Matrix"
+          ]
+        },
+        {
+          "name": "Networks & relationships",
+          "diagrams": [
+            "Legal Decision Tree"
+          ]
+        },
+        {
+          "name": "Illustrations & explainers",
+          "diagrams": [
+            "Evidence Chain-of-Custody Diagram",
+            "Policy Decision Diagram",
+            "Data Protection Impact Assessment Diagram"
+          ]
+        }
+      ],
+      "diagrams": [
+        "Legal Decision Tree",
+        "Litigation Timeline",
+        "Court Procedure Flowchart",
+        "Legal Case Relationship Map",
+        "Evidence Chain-of-Custody Diagram",
+        "Regulatory Compliance Matrix",
+        "Policy Decision Diagram",
+        "Governance Structure Diagram",
+        "Legislative Process Diagram",
+        "Government Organizational Chart",
+        "Jurisdiction Map",
+        "Regulatory Reporting Workflow",
+        "Audit Process Flowchart",
+        "Risk and Control Matrix",
+        "Policy Lifecycle Diagram",
+        "Privacy Data Flow Diagram",
+        "Data Protection Impact Assessment Diagram",
+        "Contract Approval Workflow"
+      ]
+    },
+    {
+      "id": "domain-36",
+      "name": "Social sciences, psychology, and humanities",
+      "groups": [
+        {
+          "name": "Flows & processes",
+          "diagrams": [
+            "Cognitive Process Diagram",
+            "Psychological Development Timeline",
+            "Historical Timeline"
+          ]
+        },
+        {
+          "name": "Charts & analytics",
+          "diagrams": [
+            "Social Network Analysis Graph",
+            "Cognitive Bias Map",
+            "Genealogy Chart",
+            "Argument Map",
+            "Philosophical Concept Map"
+          ]
+        },
+        {
+          "name": "Networks & relationships",
+          "diagrams": [
+            "Social Influence Network",
+            "Behavioral Decision Tree",
+            "Family Tree",
+            "Linguistic Syntax Tree",
+            "Semantic Network"
+          ]
+        },
+        {
+          "name": "Illustrations & explainers",
+          "diagrams": [
+            "Sociogram",
+            "Sociological Causal Diagram",
+            "Theory of Mind Diagram",
+            "Maslow's Hierarchy of Needs",
+            "Behavioral Reinforcement Loop",
+            "Conceptual Framework Diagram",
+            "Historical Causation Diagram",
+            "Kinship Diagram"
+          ]
+        }
+      ],
+      "diagrams": [
+        "Sociogram",
+        "Social Network Analysis Graph",
+        "Sociological Causal Diagram",
+        "Social Influence Network",
+        "Behavioral Decision Tree",
+        "Cognitive Process Diagram",
+        "Cognitive Bias Map",
+        "Theory of Mind Diagram",
+        "Maslow's Hierarchy of Needs",
+        "Psychological Development Timeline",
+        "Behavioral Reinforcement Loop",
+        "Conceptual Framework Diagram",
+        "Historical Timeline",
+        "Historical Causation Diagram",
+        "Family Tree",
+        "Kinship Diagram",
+        "Genealogy Chart",
+        "Linguistic Syntax Tree",
+        "Semantic Network",
+        "Argument Map",
+        "Philosophical Concept Map"
+      ]
+    },
+    {
+      "id": "domain-37",
+      "name": "Education, training, and instructional design",
+      "groups": [
+        {
+          "name": "Flows & processes",
+          "diagrams": [
+            "Instructional Flowchart",
+            "Educational Timeline",
+            "Problem-Solving Flowchart"
+          ]
+        },
+        {
+          "name": "Charts & analytics",
+          "diagrams": [
+            "Curriculum Map",
+            "Knowledge Map",
+            "Concept Map",
+            "Skills Competency Matrix",
+            "Learning Dependency Graph",
+            "Knowledge Retention Curve",
+            "Study Mind Map"
+          ]
+        },
+        {
+          "name": "Networks & relationships",
+          "diagrams": [
+            "Assessment Decision Tree"
+          ]
+        },
+        {
+          "name": "Illustrations & explainers",
+          "diagrams": [
+            "Learning Path Diagram",
+            "Learning Objective Hierarchy",
+            "Bloom's Taxonomy Pyramid",
+            "Lesson Progression Diagram",
+            "Interactive Explainer Diagram",
+            "Cause-and-Effect Diagram"
+          ]
+        }
+      ],
+      "diagrams": [
+        "Learning Path Diagram",
+        "Curriculum Map",
+        "Knowledge Map",
+        "Concept Map",
+        "Learning Objective Hierarchy",
+        "Bloom's Taxonomy Pyramid",
+        "Instructional Flowchart",
+        "Lesson Progression Diagram",
+        "Skills Competency Matrix",
+        "Learning Dependency Graph",
+        "Interactive Explainer Diagram",
+        "Educational Timeline",
+        "Assessment Decision Tree",
+        "Knowledge Retention Curve",
+        "Study Mind Map",
+        "Problem-Solving Flowchart",
+        "Cause-and-Effect Diagram"
+      ]
+    },
+    {
+      "id": "domain-38",
+      "name": "Graphic design, media, and visual storytelling",
+      "groups": [
+        {
+          "name": "Flows & processes",
+          "diagrams": [
+            "Process Infographic",
+            "Timeline Infographic",
+            "Film Shot Sequence Diagram"
+          ]
+        },
+        {
+          "name": "Structures & architecture",
+          "diagrams": [
+            "Cutaway Illustration",
+            "Brand Architecture Diagram",
+            "Visual Identity System Diagram"
+          ]
+        },
+        {
+          "name": "Charts & analytics",
+          "diagrams": [
+            "Editorial Infographic",
+            "Statistical Infographic",
+            "Comparison Infographic",
+            "Isometric Infographic",
+            "Interactive Infographic",
+            "Motion Graphics Diagram",
+            "Typography Hierarchy Diagram"
+          ]
+        },
+        {
+          "name": "Illustrations & explainers",
+          "diagrams": [
+            "Storyboard",
+            "Storyboard Animatic",
+            "Exploded Illustration",
+            "Animated Explainer Diagram",
+            "Visual Metaphor Diagram",
+            "Color Harmony Diagram",
+            "Color Wheel",
+            "Composition Grid",
+            "Golden Ratio Diagram",
+            "Perspective Construction Diagram",
+            "Lighting Setup Diagram",
+            "Camera Blocking Diagram",
+            "Audio Signal Chain Diagram"
+          ]
+        }
+      ],
+      "diagrams": [
+        "Storyboard",
+        "Storyboard Animatic",
+        "Exploded Illustration",
+        "Cutaway Illustration",
+        "Editorial Infographic",
+        "Statistical Infographic",
+        "Comparison Infographic",
+        "Process Infographic",
+        "Timeline Infographic",
+        "Isometric Infographic",
+        "Interactive Infographic",
+        "Animated Explainer Diagram",
+        "Motion Graphics Diagram",
+        "Visual Metaphor Diagram",
+        "Brand Architecture Diagram",
+        "Visual Identity System Diagram",
+        "Color Harmony Diagram",
+        "Color Wheel",
+        "Typography Hierarchy Diagram",
+        "Composition Grid",
+        "Golden Ratio Diagram",
+        "Perspective Construction Diagram",
+        "Lighting Setup Diagram",
+        "Camera Blocking Diagram",
+        "Film Shot Sequence Diagram",
+        "Audio Signal Chain Diagram"
+      ]
+    },
+    {
+      "id": "domain-39",
+      "name": "Music, acoustics, and performing arts",
+      "groups": [
+        {
+          "name": "Flows & processes",
+          "diagrams": [
+            "Mixing Console Signal Flow",
+            "Music Production Workflow"
+          ]
+        },
+        {
+          "name": "Charts & analytics",
+          "diagrams": [
+            "Frequency Spectrum",
+            "Stage Lighting Plot",
+            "Concert Venue Sound Coverage Map"
+          ]
+        },
+        {
+          "name": "Illustrations & explainers",
+          "diagrams": [
+            "Musical Score",
+            "Guitar Chord Diagram",
+            "Guitar Fretboard Scale Diagram",
+            "Circle of Fifths",
+            "Harmonic Progression Diagram",
+            "Tonnetz Diagram",
+            "Rhythmic Pattern Grid",
+            "Drum Pattern Diagram",
+            "Audio Waveform",
+            "Spectrogram",
+            "Signal Routing Diagram",
+            "Stage Blocking Diagram",
+            "Acoustic Reflection Diagram"
+          ]
+        }
+      ],
+      "diagrams": [
+        "Musical Score",
+        "Guitar Chord Diagram",
+        "Guitar Fretboard Scale Diagram",
+        "Circle of Fifths",
+        "Harmonic Progression Diagram",
+        "Tonnetz Diagram",
+        "Rhythmic Pattern Grid",
+        "Drum Pattern Diagram",
+        "Audio Waveform",
+        "Spectrogram",
+        "Frequency Spectrum",
+        "Signal Routing Diagram",
+        "Mixing Console Signal Flow",
+        "Music Production Workflow",
+        "Stage Lighting Plot",
+        "Stage Blocking Diagram",
+        "Acoustic Reflection Diagram",
+        "Concert Venue Sound Coverage Map"
+      ]
+    },
+    {
+      "id": "domain-40",
+      "name": "Sports, biomechanics, and movement science",
+      "groups": [
+        {
+          "name": "Flows & processes",
+          "diagrams": [
+            "Athletic Training Cycle Diagram",
+            "Climbing Route Topo",
+            "Mountaineering Route Profile"
+          ]
+        },
+        {
+          "name": "Structures & architecture",
+          "diagrams": [
+            "Player Heatmap",
+            "Injury Mechanism Diagram"
+          ]
+        },
+        {
+          "name": "Charts & analytics",
+          "diagrams": [
+            "Gait Analysis Diagram",
+            "Sports Performance Radar Chart",
+            "Cycling Power Curve"
+          ]
+        },
+        {
+          "name": "Networks & relationships",
+          "diagrams": [
+            "Team Passing Network"
+          ]
+        },
+        {
+          "name": "Simulation & modeling",
+          "diagrams": [
+            "Human Motion Capture Visualization",
+            "Movement Trajectory Diagram"
+          ]
+        },
+        {
+          "name": "Illustrations & explainers",
+          "diagrams": [
+            "Biomechanical Joint Diagram",
+            "Musculoskeletal Force Diagram",
+            "Force Plate Diagram",
+            "Joint Torque Diagram",
+            "Exercise Muscle Activation Diagram",
+            "Climbing Protection Placement Diagram",
+            "Sports Tactics Diagram"
+          ]
+        }
+      ],
+      "diagrams": [
+        "Biomechanical Joint Diagram",
+        "Musculoskeletal Force Diagram",
+        "Human Motion Capture Visualization",
+        "Gait Analysis Diagram",
+        "Force Plate Diagram",
+        "Joint Torque Diagram",
+        "Sports Performance Radar Chart",
+        "Movement Trajectory Diagram",
+        "Exercise Muscle Activation Diagram",
+        "Athletic Training Cycle Diagram",
+        "Climbing Route Topo",
+        "Climbing Protection Placement Diagram",
+        "Mountaineering Route Profile",
+        "Cycling Power Curve",
+        "Sports Tactics Diagram",
+        "Team Passing Network",
+        "Player Heatmap",
+        "Injury Mechanism Diagram"
+      ]
+    },
+    {
+      "id": "domain-41",
+      "name": "Agriculture, food science, and nutrition",
+      "groups": [
+        {
+          "name": "Flows & processes",
+          "diagrams": [
+            "Crop Rotation Cycle",
+            "Soil Nutrient Cycle",
+            "Farm Operations Workflow",
+            "Food Processing Flow Diagram",
+            "Food Safety HACCP Flowchart",
+            "Fermentation Process Diagram",
+            "Brewing Process Flow Diagram",
+            "Food Packaging Process Diagram"
+          ]
+        },
+        {
+          "name": "Charts & analytics",
+          "diagrams": [
+            "Precision Agriculture Field Map",
+            "Nutritional Composition Chart"
+          ]
+        },
+        {
+          "name": "Simulation & modeling",
+          "diagrams": [
+            "Greenhouse Climate Control Diagram"
+          ]
+        },
+        {
+          "name": "Illustrations & explainers",
+          "diagrams": [
+            "Agricultural Irrigation Diagram",
+            "Agricultural Supply Chain Diagram",
+            "Food Production Line Diagram",
+            "Food Web",
+            "Nutrient Metabolism Diagram"
+          ]
+        }
+      ],
+      "diagrams": [
+        "Agricultural Irrigation Diagram",
+        "Crop Rotation Cycle",
+        "Soil Nutrient Cycle",
+        "Precision Agriculture Field Map",
+        "Farm Operations Workflow",
+        "Greenhouse Climate Control Diagram",
+        "Agricultural Supply Chain Diagram",
+        "Food Processing Flow Diagram",
+        "Food Safety HACCP Flowchart",
+        "Food Production Line Diagram",
+        "Food Web",
+        "Nutrient Metabolism Diagram",
+        "Nutritional Composition Chart",
+        "Fermentation Process Diagram",
+        "Brewing Process Flow Diagram",
+        "Food Packaging Process Diagram"
+      ]
+    },
+    {
+      "id": "domain-42",
+      "name": "Defense, security, disaster response, and emergency planning",
+      "groups": [
+        {
+          "name": "Flows & processes",
+          "diagrams": [
+            "Emergency Response Flowchart",
+            "Disaster Recovery Workflow",
+            "Emergency Medical Triage Flow"
+          ]
+        },
+        {
+          "name": "Structures & architecture",
+          "diagrams": [
+            "Operational Command Structure Diagram",
+            "Defense-in-Depth Architecture Diagram",
+            "Incident Command System Chart",
+            "Business Continuity Architecture Diagram"
+          ]
+        },
+        {
+          "name": "Charts & analytics",
+          "diagrams": [
+            "Threat Assessment Matrix",
+            "Disaster Evacuation Map",
+            "Flood Evacuation Map"
+          ]
+        },
+        {
+          "name": "Networks & relationships",
+          "diagrams": [
+            "Emergency Communications Network"
+          ]
+        },
+        {
+          "name": "Simulation & modeling",
+          "diagrams": [
+            "Wildfire Spread Simulation"
+          ]
+        },
+        {
+          "name": "Illustrations & explainers",
+          "diagrams": [
+            "Mission Planning Diagram",
+            "Tactical Movement Diagram",
+            "Sensor Coverage Diagram",
+            "Search-and-Rescue Grid Diagram",
+            "Fire Behavior Diagram"
+          ]
+        }
+      ],
+      "diagrams": [
+        "Operational Command Structure Diagram",
+        "Mission Planning Diagram",
+        "Tactical Movement Diagram",
+        "Sensor Coverage Diagram",
+        "Threat Assessment Matrix",
+        "Defense-in-Depth Architecture Diagram",
+        "Emergency Response Flowchart",
+        "Incident Command System Chart",
+        "Disaster Evacuation Map",
+        "Disaster Recovery Workflow",
+        "Search-and-Rescue Grid Diagram",
+        "Emergency Communications Network",
+        "Fire Behavior Diagram",
+        "Wildfire Spread Simulation",
+        "Flood Evacuation Map",
+        "Emergency Medical Triage Flow",
+        "Business Continuity Architecture Diagram"
+      ]
+    }
+  ],
+  "styles": [
+    {
+      "family": "Hand-drawn",
+      "styles": [
+        "Pencil Sketch",
+        "Ink Sketch",
+        "Chalkboard",
+        "Whiteboard",
+        "Marker",
+        "Doodle",
+        "Scribble"
+      ]
+    },
+    {
+      "family": "Technical drafting",
+      "styles": [
+        "Blueprint",
+        "Engineering Drawing",
+        "CAD Wireframe",
+        "Patent Illustration",
+        "Cross-Hatched Technical Drawing"
+      ]
+    },
+    {
+      "family": "Minimalist",
+      "styles": [
+        "Flat 2D",
+        "Monochrome",
+        "Thin-Line",
+        "Outline",
+        "Geometric",
+        "Swiss/Grid-Based"
+      ]
+    },
+    {
+      "family": "Iconographic",
+      "styles": [
+        "Pictogram",
+        "Glyph",
+        "Duotone Icon",
+        "Filled Icon",
+        "Material-Style",
+        "Line Icon"
+      ]
+    },
+    {
+      "family": "Vector illustration",
+      "styles": [
+        "Flat Vector",
+        "Gradient Vector",
+        "Geometric Vector",
+        "Editorial Vector"
+      ]
+    },
+    {
+      "family": "Isometric",
+      "styles": [
+        "Flat Isometric",
+        "Isometric Pixel Art",
+        "Isometric Cutaway",
+        "Exploded Isometric"
+      ]
+    },
+    {
+      "family": "Dimensional",
+      "styles": [
+        "2.5D",
+        "Orthographic 3D",
+        "Perspective 3D",
+        "Low-Poly 3D",
+        "High-Poly 3D"
+      ]
+    },
+    {
+      "family": "Realistic",
+      "styles": [
+        "Photorealistic",
+        "Medical Illustration",
+        "Scientific Rendering",
+        "Product Rendering"
+      ]
+    },
+    {
+      "family": "Futuristic",
+      "styles": [
+        "Holographic",
+        "HUD Interface",
+        "Sci-Fi Technical",
+        "Neon Cyberpunk",
+        "Digital Twin"
+      ]
+    },
+    {
+      "family": "Contemporary UI",
+      "styles": [
+        "Glassmorphism",
+        "Neumorphism",
+        "Bento Grid",
+        "Dark SaaS",
+        "High-Contrast Dashboard"
+      ]
+    },
+    {
+      "family": "Retro",
+      "styles": [
+        "Pixel Art",
+        "Vintage Scientific",
+        "Blueprint Paper",
+        "Retro-Futurism",
+        "Terminal/ASCII"
+      ]
+    },
+    {
+      "family": "Artistic",
+      "styles": [
+        "Watercolor",
+        "Paper Cutout",
+        "Collage",
+        "Woodcut",
+        "Pen-and-Ink",
+        "Screen Print"
+      ]
+    },
+    {
+      "family": "Educational",
+      "styles": [
+        "Cartoon Explainer",
+        "Textbook Illustration",
+        "Children's Educational",
+        "Museum Exhibit"
+      ]
+    },
+    {
+      "family": "Presentation",
+      "styles": [
+        "Corporate Infographic",
+        "Editorial Infographic",
+        "Executive Dashboard",
+        "Investor Presentation"
+      ]
+    },
+    {
+      "family": "Spatial visualization",
+      "styles": [
+        "Cross-Section",
+        "Exploded View",
+        "Transparent/X-Ray",
+        "Layered Cutaway",
+        "Terrain Relief"
+      ]
+    }
+  ],
+  "layouts": [
+    "Linear Horizontal",
+    "Linear Vertical",
+    "Radial",
+    "Hub-and-Spoke",
+    "Hierarchical Tree",
+    "Circular",
+    "Concentric Rings",
+    "Grid/Matrix",
+    "Swimlane",
+    "Network/Mesh",
+    "Layered Stack",
+    "Timeline",
+    "Funnel",
+    "Pyramid",
+    "Sankey Flow",
+    "Isometric Scene",
+    "Exploded Assembly",
+    "Cutaway",
+    "Geographic/Spatial",
+    "Dashboard/Bento"
+  ],
+  "animations": [
+    "None",
+    "Fade-In",
+    "Sequential Reveal",
+    "Line Drawing",
+    "Dashed-Line Flow",
+    "Particle Flow",
+    "Pulse Flow",
+    "Node Highlighting",
+    "Node Expansion",
+    "State Transition",
+    "Path Tracing",
+    "Layer Stacking",
+    "Exploded Assembly",
+    "Morphing",
+    "Force-Directed Motion",
+    "Physics Simulation",
+    "Data Growth Animation",
+    "Number Counting",
+    "Wave Propagation",
+    "Fluid Flow",
+    "Heat Diffusion",
+    "Orbital Motion",
+    "Rotation",
+    "Camera Flythrough",
+    "Zoom and Pan",
+    "Whiteboard Drawing",
+    "Kinetic Typography",
+    "Timeline Scrubbing",
+    "Real-Time Simulation"
+  ],
+  "interactions": [
+    "None",
+    "Play / Pause",
+    "Step Forward / Backward",
+    "Reset / Replay",
+    "Speed Slider",
+    "Toggle",
+    "Parameter Slider",
+    "Node Click",
+    "Hover Highlight",
+    "Drag Node",
+    "Drag and Drop",
+    "Zoom / Pan",
+    "3D Rotate",
+    "Layer Visibility",
+    "Timeline Scrubber",
+    "Compare Scenarios",
+    "Live Data Feed",
+    "What-If Simulation",
+    "Branch Selection"
+  ],
+  "renderers": [
+    {
+      "name": "SVG Flow Engine",
+      "description": "Flowcharts, workflows, UML, BPMN, state machines"
+    },
+    {
+      "name": "Graph/Network Engine",
+      "description": "Dependency graphs, knowledge graphs, networks, social graphs"
+    },
+    {
+      "name": "Chart Engine",
+      "description": "Statistical, financial, scientific, and business charts"
+    },
+    {
+      "name": "Schematic Engine",
+      "description": "Electrical circuits, piping, engineering block diagrams"
+    },
+    {
+      "name": "Geographic Engine",
+      "description": "Maps, routes, geospatial data, terrain"
+    },
+    {
+      "name": "2D Illustration Engine",
+      "description": "Anatomy, educational illustrations, cutaways"
+    },
+    {
+      "name": "Isometric Engine",
+      "description": "Product assemblies, architecture, layered infographics"
+    },
+    {
+      "name": "3D Visualization Engine",
+      "description": "CAD models, aerospace, anatomy, molecular models"
+    },
+    {
+      "name": "Simulation Engine",
+      "description": "Physics, traffic, electrical systems, fluid flow, robotics"
+    },
+    {
+      "name": "Whiteboard Animation Engine",
+      "description": "Sketch-based explainers, instructional sequences"
+    }
+  ],
+  "purposes": [
+    "Explain how a system works",
+    "Show relationships and dependencies",
+    "Visualize a process or workflow",
+    "Communicate data and trends",
+    "Teach a concept step-by-step",
+    "Document components and interfaces",
+    "Simulate behavior or change over time",
+    "Compare options and scenarios",
+    "Support decision-making",
+    "Other"
+  ]
+}

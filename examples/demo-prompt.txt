@@ -1,0 +1,31 @@
+You are a senior information designer and visualization engineer. Create an accurate, production-quality API Integration Diagram using the following verified user selections.
+
+DOMAIN: Software engineering and application architecture
+CATEGORY FAMILY: Flows & processes
+PURPOSE: Show read-only activity records flowing from third-party services into Ledgely
+DIAGRAM TYPE: API Integration Diagram
+VISUAL FAMILY: Contemporary UI
+GRAPHIC STYLE: Dark SaaS
+OUTPUT FORMAT: HTML5
+LAYOUT: Hub-and-Spoke
+ANIMATION: Dashed-Line Flow
+INTERACTION: Play / Pause
+RENDERING ENGINE: SVG Flow Engine
+TITLE: Integrations • Activity Sync
+CONTENT / RELATIONSHIPS:
+Hubstaff -> Ledgely
+Harvest -> Ledgely
+Rize -> Ledgely
+ORIGINAL REQUEST: Create animated integration from Hubstaff Harvest Rize to Ledgely
+ADDITIONAL NOTES: (none)
+
+REQUIREMENTS:
+1. Preserve the user's domain terminology and the relationships/data that are explicitly supplied. Do not fabricate scientific/clinical/engineering facts.
+2. Use a clear visual hierarchy, responsive sizing, legible labels, and accessible contrast.
+3. Follow the selected visual style and layout.
+4. Animate using Dashed-Line Flow, smoothly and without distracting motion. Add reduced-motion support.
+5. Implement Play / Pause controls.
+6. Export exactly as HTML5; provide an actual playable/visible preview and the editable source where possible.
+7. Validate arrows, relationships, units, scales, and nomenclature; identify any illustrative placeholders.
+8. If the requested output is unsupported by the environment, explain this and produce the closest valid preview, without pretending a file was rendered.
+9. Use the best supported rendering technology; preferred engine: SVG Flow Engine.

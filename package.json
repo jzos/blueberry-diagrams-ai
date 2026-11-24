@@ -1,0 +1,50 @@
+{
+  "name": "blueberry-diagrams",
+  "version": "0.1.0",
+  "description": "Local-first AI diagram design wizard and MCP tools with a cross-platform prompt generator",
+  "license": "MIT",
+  "type": "module",
+  "bin": {
+    "blueberry": "./bin/blueberry.js"
+  },
+  "files": [
+    "bin",
+    "src",
+    "public",
+    "docs",
+    "adapters",
+    "examples",
+    "LICENSE",
+    "README.md",
+    "scripts",
+    "assets"
+  ],
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "start": "node bin/blueberry.js serve",
+    "dev": "node bin/blueberry.js serve",
+    "test": "node --test tests/*.test.js",
+    "pack:check": "npm pack --dry-run",
+    "verify": "npm test && npm run pack:check",
+    "catalog:build": "python3 scripts/generate_catalog.py"
+  },
+  "keywords": [
+    "mcp",
+    "diagram",
+    "flowchart",
+    "svg",
+    "generative-ai",
+    "claude",
+    "chatgpt",
+    "gemini",
+    "grok",
+    "visualization",
+    "blueberry"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YOUR-USERNAME/blueberry-diagrams-ai.git"
+  }
+}

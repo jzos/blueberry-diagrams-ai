@@ -1,0 +1,16 @@
+{
+  "prompt": "Create an animated integration flow from Hubstaff, Harvest and Rize to Ledgely",
+  "domain": "Software engineering and application architecture",
+  "category": "Flows & processes",
+  "purpose": "Explain how a system works",
+  "purposeDetail": "Show three read-only data sources syncing to one destination",
+  "diagramType": "API Integration Diagram",
+  "styleFamily": "Contemporary UI",
+  "style": "Dark SaaS",
+  "output": "HTML5",
+  "layout": "Hub-and-Spoke",
+  "animation": "Dashed-Line Flow",
+  "interaction": "Play / Pause",
+  "renderer": "Auto",
+  "content": "Hubstaff -> Ledgely\nHarvest -> Ledgely\nRize -> Ledgely"
+}

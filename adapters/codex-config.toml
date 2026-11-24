@@ -1,0 +1,4 @@
+# Merge into ~/.codex/config.toml if your Codex installation supports MCP
+[mcp_servers.blueberry]
+command = "blueberry"
+args = ["mcp"]

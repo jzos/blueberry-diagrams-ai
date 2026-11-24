@@ -1,0 +1,16 @@
+{
+  "prompt": "Create a sequence diagram showing OAuth 2.0 Authorization Code Flow",
+  "domain": "UML: Unified Modeling Language",
+  "category": "Flows & processes",
+  "purpose": "Explain how a system works",
+  "purposeDetail": "Explain authorization interactions between participants",
+  "diagramType": "Sequence Diagram",
+  "styleFamily": "Technical drafting",
+  "style": "Blueprint",
+  "output": "SVG",
+  "layout": "Swimlane",
+  "animation": "None",
+  "interaction": "None",
+  "renderer": "Auto",
+  "content": "User -> Client App\nClient App -> Auth Server\nAuth Server -> Client App\nClient App -> Resource API"
+}
